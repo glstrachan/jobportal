@@ -32,9 +32,9 @@ async function main() {
         const newJobs = dbHandler.findNewJobs(allJobs, previousJobs);
         console.log(`Found ${newJobs.length} new jobs`);
         
-        // Save all jobs back to the database
+        // Save all jobs back to the database while preserving original scrape dates
         console.log('Saving all jobs to database...');
-        await dbHandler.saveJobs(allJobs);
+        await dbHandler.saveJobs(allJobs, previousJobs);
         
         // Send email notification if there are new jobs
         if (newJobs.length > 0) {
