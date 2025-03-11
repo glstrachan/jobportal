@@ -17,10 +17,34 @@ class DatabaseHandler {
         }
     }
 
-    async saveJobs(jobs) {
-        const jobsData = jobs.map(job => job.toObject ? job.toObject() : job);
-        await fs.writeFile(this.dbFilePath, JSON.stringify(jobsData, null, 2), 'utf8');
-        console.log(`Saved ${jobsData.length} jobs to database`);
+    async saveJobs(currentJobs, previousJobs = []) {
+        // Create a map of previous jobs keyed by uniqueIdentifier for quick lookup
+        const previousJobsMap = new Map(
+            previousJobs.map(job => [job.uniqueIdentifier, job])
+        );
+        
+        // Process each current job
+        const jobsToSave = currentJobs.map(job => {
+            const jobData = job.toObject ? job.toObject() : job;
+            const existingJob = previousJobsMap.get(jobData.uniqueIdentifier);
+            
+            // If this job already exists in our database, preserve its original scrapeDate
+            if (existingJob) {
+                return {
+                    ...jobData,
+                    scrapeDate: existingJob.scrapeDate // Keep the original scrape date
+                };
+            }
+            
+            // This is a new job, keep its current scrapeDate
+            return jobData;
+        });
+        
+        // Save to file
+        await fs.writeFile(this.dbFilePath, JSON.stringify(jobsToSave, null, 2), 'utf8');
+        console.log(`Saved ${jobsToSave.length} jobs to database`);
+        
+        return jobsToSave;
     }
 
     findNewJobs(currentJobs, previousJobs) {
