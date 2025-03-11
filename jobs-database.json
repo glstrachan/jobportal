@@ -1,1 +1,753 @@
-[]
+[
+  {
+    "name": "Quantitative Trader",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.642Z",
+    "uniqueIdentifier": "jane-street-7589526002",
+    "location": "Hong Kong",
+    "seasonDuration": "December-February",
+    "url": "https://www.janestreet.com/join-jane-street/position/7589526002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7589526002"
+    }
+  },
+  {
+    "name": "Quantitative Trader",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.642Z",
+    "uniqueIdentifier": "jane-street-7520028002",
+    "location": "Hong Kong",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/7520028002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7520028002"
+    }
+  },
+  {
+    "name": "Quantitative Researcher",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.642Z",
+    "uniqueIdentifier": "jane-street-7868859002",
+    "location": "Hong Kong",
+    "seasonDuration": "December-February",
+    "url": "https://www.janestreet.com/join-jane-street/position/7868859002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7868859002"
+    }
+  },
+  {
+    "name": "Machine Learning Researcher",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.642Z",
+    "uniqueIdentifier": "jane-street-7608478002",
+    "location": "Hong Kong",
+    "seasonDuration": "May-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/7608478002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7608478002"
+    }
+  },
+  {
+    "name": "Machine Learning Researcher",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.642Z",
+    "uniqueIdentifier": "jane-street-7608451002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/7608451002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7608451002"
+    }
+  },
+  {
+    "name": "Machine Learning Researcher",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.642Z",
+    "uniqueIdentifier": "jane-street-7582382002",
+    "location": "New York",
+    "seasonDuration": "May-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/7582382002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7582382002"
+    }
+  },
+  {
+    "name": "Software Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.642Z",
+    "uniqueIdentifier": "jane-street-7582873002",
+    "location": "Hong Kong",
+    "seasonDuration": "December-February",
+    "url": "https://www.janestreet.com/join-jane-street/position/7582873002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "7582873002"
+    }
+  },
+  {
+    "name": "IT Operations Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.642Z",
+    "uniqueIdentifier": "jane-street-7637256002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/7637256002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "7637256002"
+    }
+  },
+  {
+    "name": "IT Operations Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.642Z",
+    "uniqueIdentifier": "jane-street-7856267002",
+    "location": "Hong Kong",
+    "seasonDuration": "December-February",
+    "url": "https://www.janestreet.com/join-jane-street/position/7856267002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "7856267002"
+    }
+  },
+  {
+    "name": "IT Operations Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.642Z",
+    "uniqueIdentifier": "jane-street-7271129002",
+    "location": "Hong Kong",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/7271129002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "7271129002"
+    }
+  },
+  {
+    "name": "Linux Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.642Z",
+    "uniqueIdentifier": "jane-street-7589697002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/7589697002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "7589697002"
+    }
+  },
+  {
+    "name": "Linux Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.642Z",
+    "uniqueIdentifier": "jane-street-7586655002",
+    "location": "Hong Kong",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/7586655002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "7586655002"
+    }
+  },
+  {
+    "name": "Strategy and Product",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.643Z",
+    "uniqueIdentifier": "jane-street-7811458002",
+    "location": "Hong Kong",
+    "seasonDuration": "December-February",
+    "url": "https://www.janestreet.com/join-jane-street/position/7811458002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Strategy and Product",
+      "positionId": "7811458002"
+    }
+  },
+  {
+    "name": "Tools and Compilers Research and Development",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.643Z",
+    "uniqueIdentifier": "jane-street-5869205002",
+    "location": "New York",
+    "seasonDuration": "Flexible",
+    "url": "https://www.janestreet.com/join-jane-street/position/5869205002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "5869205002"
+    }
+  },
+  {
+    "name": "Tools and Compilers Research and Development",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.643Z",
+    "uniqueIdentifier": "jane-street-5866838002",
+    "location": "London",
+    "seasonDuration": "Flexible",
+    "url": "https://www.janestreet.com/join-jane-street/position/5866838002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "5866838002"
+    }
+  },
+  {
+    "name": "Trading Desk Operations Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.643Z",
+    "uniqueIdentifier": "jane-street-7545452002",
+    "location": "New York",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/7545452002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7545452002"
+    }
+  },
+  {
+    "name": "Trading Desk Operations Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.643Z",
+    "uniqueIdentifier": "jane-street-7547943002",
+    "location": "Hong Kong",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/7547943002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7547943002"
+    }
+  },
+  {
+    "name": "Trading Desk Operations Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.643Z",
+    "uniqueIdentifier": "jane-street-7847966002",
+    "location": "Hong Kong",
+    "seasonDuration": "December-February",
+    "url": "https://www.janestreet.com/join-jane-street/position/7847966002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7847966002"
+    }
+  },
+  {
+    "name": "Quantitative Trader",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.643Z",
+    "uniqueIdentifier": "jane-street-7589526002",
+    "location": "Hong Kong",
+    "seasonDuration": "December-February",
+    "url": "https://www.janestreet.com/join-jane-street/position/7589526002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7589526002"
+    }
+  },
+  {
+    "name": "Quantitative Trader",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.643Z",
+    "uniqueIdentifier": "jane-street-7520028002",
+    "location": "Hong Kong",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/7520028002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7520028002"
+    }
+  },
+  {
+    "name": "Quantitative Researcher",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.643Z",
+    "uniqueIdentifier": "jane-street-7868859002",
+    "location": "Hong Kong",
+    "seasonDuration": "December-February",
+    "url": "https://www.janestreet.com/join-jane-street/position/7868859002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7868859002"
+    }
+  },
+  {
+    "name": "Machine Learning Researcher",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.643Z",
+    "uniqueIdentifier": "jane-street-7608478002",
+    "location": "Hong Kong",
+    "seasonDuration": "May-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/7608478002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7608478002"
+    }
+  },
+  {
+    "name": "Machine Learning Researcher",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.643Z",
+    "uniqueIdentifier": "jane-street-7608451002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/7608451002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7608451002"
+    }
+  },
+  {
+    "name": "Machine Learning Researcher",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.643Z",
+    "uniqueIdentifier": "jane-street-7582382002",
+    "location": "New York",
+    "seasonDuration": "May-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/7582382002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7582382002"
+    }
+  },
+  {
+    "name": "Software Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.643Z",
+    "uniqueIdentifier": "jane-street-7582873002",
+    "location": "Hong Kong",
+    "seasonDuration": "December-February",
+    "url": "https://www.janestreet.com/join-jane-street/position/7582873002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "7582873002"
+    }
+  },
+  {
+    "name": "IT Operations Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.643Z",
+    "uniqueIdentifier": "jane-street-7637256002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/7637256002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "7637256002"
+    }
+  },
+  {
+    "name": "IT Operations Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.643Z",
+    "uniqueIdentifier": "jane-street-7856267002",
+    "location": "Hong Kong",
+    "seasonDuration": "December-February",
+    "url": "https://www.janestreet.com/join-jane-street/position/7856267002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "7856267002"
+    }
+  },
+  {
+    "name": "IT Operations Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.643Z",
+    "uniqueIdentifier": "jane-street-7271129002",
+    "location": "Hong Kong",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/7271129002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "7271129002"
+    }
+  },
+  {
+    "name": "Linux Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.643Z",
+    "uniqueIdentifier": "jane-street-7589697002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/7589697002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "7589697002"
+    }
+  },
+  {
+    "name": "Linux Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.643Z",
+    "uniqueIdentifier": "jane-street-7586655002",
+    "location": "Hong Kong",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/7586655002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "7586655002"
+    }
+  },
+  {
+    "name": "Strategy and Product",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.643Z",
+    "uniqueIdentifier": "jane-street-7811458002",
+    "location": "Hong Kong",
+    "seasonDuration": "December-February",
+    "url": "https://www.janestreet.com/join-jane-street/position/7811458002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Strategy and Product",
+      "positionId": "7811458002"
+    }
+  },
+  {
+    "name": "Tools and Compilers Research and Development",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.643Z",
+    "uniqueIdentifier": "jane-street-5869205002",
+    "location": "New York",
+    "seasonDuration": "Flexible",
+    "url": "https://www.janestreet.com/join-jane-street/position/5869205002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "5869205002"
+    }
+  },
+  {
+    "name": "Tools and Compilers Research and Development",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.643Z",
+    "uniqueIdentifier": "jane-street-5866838002",
+    "location": "London",
+    "seasonDuration": "Flexible",
+    "url": "https://www.janestreet.com/join-jane-street/position/5866838002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "5866838002"
+    }
+  },
+  {
+    "name": "Trading Desk Operations Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.643Z",
+    "uniqueIdentifier": "jane-street-7545452002",
+    "location": "New York",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/7545452002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7545452002"
+    }
+  },
+  {
+    "name": "Trading Desk Operations Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.643Z",
+    "uniqueIdentifier": "jane-street-7547943002",
+    "location": "Hong Kong",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/7547943002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7547943002"
+    }
+  },
+  {
+    "name": "Trading Desk Operations Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:14:39.643Z",
+    "uniqueIdentifier": "jane-street-7847966002",
+    "location": "Hong Kong",
+    "seasonDuration": "December-February",
+    "url": "https://www.janestreet.com/join-jane-street/position/7847966002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7847966002"
+    }
+  },
+  {
+    "name": "Software Engineer – 2025 Intern (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:14:41.878Z",
+    "uniqueIdentifier": "citadel-software-engineer-2025-intern-us",
+    "location": "Chicago, Miami, New York",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/software-engineer-2025-intern-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "software-engineer-2025-intern-us"
+    }
+  },
+  {
+    "name": "Site Reliability Engineer – 2025 Intern (Asia)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:14:41.878Z",
+    "uniqueIdentifier": "citadel-site-reliability-engineer-2025-intern-asia",
+    "location": "Hong Kong, Singapore",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/site-reliability-engineer-2025-intern-asia/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "site-reliability-engineer-2025-intern-asia"
+    }
+  },
+  {
+    "name": "Quantitative Researcher – 2025 PhD Intern (Asia)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:14:41.878Z",
+    "uniqueIdentifier": "citadel-quantitative-researcher-2025-phd-intern-asia",
+    "location": "Hong Kong, Singapore",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/quantitative-researcher-2025-phd-intern-asia/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-researcher-2025-phd-intern-asia"
+    }
+  },
+  {
+    "name": "Quantitative Researcher – 2025 PhD Intern (Europe)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:14:41.878Z",
+    "uniqueIdentifier": "citadel-quantitative-researcher-2025-phd-intern-europe",
+    "location": "London, Paris",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/quantitative-researcher-2025-phd-intern-europe/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-researcher-2025-phd-intern-europe"
+    }
+  },
+  {
+    "name": "Quantitative Research Analyst  – 2025 Intern (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:14:41.878Z",
+    "uniqueIdentifier": "citadel-quantitative-research-analyst-2025-intern-us",
+    "location": "Chicago, Miami, New York",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-2025-intern-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-research-analyst-2025-intern-us"
+    }
+  },
+  {
+    "name": "Quantitative Research Analyst – 2025 Intern (Europe)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:14:41.878Z",
+    "uniqueIdentifier": "citadel-quantitative-research-analyst-2025-intern-europe",
+    "location": "London, Paris",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-2025-intern-europe/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-research-analyst-2025-intern-europe"
+    }
+  },
+  {
+    "name": "Quantitative Research Analyst – 2025 Intern (Asia)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:14:41.878Z",
+    "uniqueIdentifier": "citadel-quantitative-research-analyst-2025-intern-asia",
+    "location": "Hong Kong, Singapore",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-2025-intern-asia/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-research-analyst-2025-intern-asia"
+    }
+  },
+  {
+    "name": "Software Engineer – 2025 Intern (Asia)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:14:41.878Z",
+    "uniqueIdentifier": "citadel-software-engineer-2025-intern-asia",
+    "location": "Singapore",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/software-engineer-2025-intern-asia/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "software-engineer-2025-intern-asia"
+    }
+  },
+  {
+    "name": "Software Engineer –  2025 Intern (Europe)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:14:41.878Z",
+    "uniqueIdentifier": "citadel-software-engineer-2025-intern-europe",
+    "location": "London",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/software-engineer-2025-intern-europe/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "software-engineer-2025-intern-europe"
+    }
+  },
+  {
+    "name": "Quantitative Researcher – 2025 PhD Intern (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:14:41.878Z",
+    "uniqueIdentifier": "citadel-quantitative-researcher-2025-phd-intern-us",
+    "location": "Chicago, Miami, New York",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/quantitative-researcher-2025-phd-intern-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-researcher-2025-phd-intern-us"
+    }
+  },
+  {
+    "name": "Sector Data Analyst – 2025 Intern (Europe)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:14:41.878Z",
+    "uniqueIdentifier": "citadel-sector-data-analyst-2025-intern-europe",
+    "location": "London",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/sector-data-analyst-2025-intern-europe/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "sector-data-analyst-2025-intern-europe"
+    }
+  },
+  {
+    "name": "Investment and Trading – 2025 Intern (Europe)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:14:41.878Z",
+    "uniqueIdentifier": "citadel-investment-and-trading-2025-intern-europe",
+    "location": "London, Paris",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/investment-and-trading-2025-intern-europe/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "investment-and-trading-2025-intern-europe"
+    }
+  },
+  {
+    "name": "International Equities – 2025 Intern (Asia)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:14:41.878Z",
+    "uniqueIdentifier": "citadel-international-equities-2025-intern-asia",
+    "location": "Hong Kong, Singapore",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/international-equities-2025-intern-asia/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "international-equities-2025-intern-asia"
+    }
+  },
+  {
+    "name": "Operations Analyst – 2025 Intern (Europe)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:14:41.878Z",
+    "uniqueIdentifier": "citadel-operations-analyst-2025-intern-europe",
+    "location": "London",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/operations-analyst-2025-intern-europe/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "operations-analyst-2025-intern-europe"
+    }
+  },
+  {
+    "name": "Operations – 2025 Intern (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:14:41.878Z",
+    "uniqueIdentifier": "citadel-operations-2025-intern-us",
+    "location": "New York",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/operations-2025-intern-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "operations-2025-intern-us"
+    }
+  },
+  {
+    "name": "International Equities Associate – 2025 Intern (Europe)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:14:41.878Z",
+    "uniqueIdentifier": "citadel-international-equities-associate-2025-intern-europe",
+    "location": "London",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/international-equities-associate-2025-intern-europe/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "international-equities-associate-2025-intern-europe"
+    }
+  },
+  {
+    "name": "Launch – 2025 Intern (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:14:41.878Z",
+    "uniqueIdentifier": "citadel-launch-2025-intern-us",
+    "location": "Chicago, Miami, New York",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/launch-2025-intern-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "launch-2025-intern-us"
+    }
+  },
+  {
+    "name": "Investment & Trading – 2025 Intern (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:14:41.878Z",
+    "uniqueIdentifier": "citadel-investment-trading-2025-intern-us",
+    "location": "Greenwich, New York",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/investment-trading-2025-intern-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "investment-trading-2025-intern-us"
+    }
+  },
+  {
+    "name": "Citadel Associate Program (Equities) – Summer Internship 2026 (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:14:41.878Z",
+    "uniqueIdentifier": "citadel-citadel-associate-program-equities-summer-internship-2026-us",
+    "location": "New York",
+    "seasonDuration": "2026",
+    "url": "https://www.citadel.com/careers/details/citadel-associate-program-equities-summer-internship-2026-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "citadel-associate-program-equities-summer-internship-2026-us"
+    }
+  }
+]
