@@ -476,19 +476,6 @@
     }
   },
   {
-    "name": "Software Engineer – 2025 Intern (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-03-11T06:34:24.670Z",
-    "uniqueIdentifier": "citadel-software-engineer-2025-intern-us",
-    "location": "Chicago, Miami, New York",
-    "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/software-engineer-2025-intern-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "software-engineer-2025-intern-us"
-    }
-  },
-  {
     "name": "Site Reliability Engineer – 2025 Intern (Asia)",
     "company": "Citadel",
     "scrapeDate": "2025-03-11T06:34:24.670Z",
@@ -541,29 +528,16 @@
     }
   },
   {
-    "name": "Quantitative Research Analyst – 2025 Intern (Europe)",
+    "name": "Sector Data Analyst – 2025 Intern (Europe)",
     "company": "Citadel",
     "scrapeDate": "2025-03-11T06:34:24.670Z",
-    "uniqueIdentifier": "citadel-quantitative-research-analyst-2025-intern-europe",
-    "location": "London, Paris",
+    "uniqueIdentifier": "citadel-sector-data-analyst-2025-intern-europe",
+    "location": "London",
     "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-2025-intern-europe/",
+    "url": "https://www.citadel.com/careers/details/sector-data-analyst-2025-intern-europe/",
     "extra": {
       "type": "Internship",
-      "positionId": "quantitative-research-analyst-2025-intern-europe"
-    }
-  },
-  {
-    "name": "Quantitative Research Analyst – 2025 Intern (Asia)",
-    "company": "Citadel",
-    "scrapeDate": "2025-03-11T06:34:24.670Z",
-    "uniqueIdentifier": "citadel-quantitative-research-analyst-2025-intern-asia",
-    "location": "Hong Kong, Singapore",
-    "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-2025-intern-asia/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-research-analyst-2025-intern-asia"
+      "positionId": "sector-data-analyst-2025-intern-europe"
     }
   },
   {
@@ -606,16 +580,16 @@
     }
   },
   {
-    "name": "Sector Data Analyst – 2025 Intern (Europe)",
+    "name": "Software Engineer – 2025 Intern (US)",
     "company": "Citadel",
     "scrapeDate": "2025-03-11T06:34:24.670Z",
-    "uniqueIdentifier": "citadel-sector-data-analyst-2025-intern-europe",
-    "location": "London",
+    "uniqueIdentifier": "citadel-software-engineer-2025-intern-us",
+    "location": "Chicago, Miami, New York",
     "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/sector-data-analyst-2025-intern-europe/",
+    "url": "https://www.citadel.com/careers/details/software-engineer-2025-intern-us/",
     "extra": {
       "type": "Internship",
-      "positionId": "sector-data-analyst-2025-intern-europe"
+      "positionId": "software-engineer-2025-intern-us"
     }
   },
   {
@@ -694,6 +668,32 @@
     "extra": {
       "type": "Internship",
       "positionId": "launch-2025-intern-us"
+    }
+  },
+  {
+    "name": "Quantitative Research Analyst – 2025 Intern (Asia)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:34:24.670Z",
+    "uniqueIdentifier": "citadel-quantitative-research-analyst-2025-intern-asia",
+    "location": "Hong Kong, Singapore",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-2025-intern-asia/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-research-analyst-2025-intern-asia"
+    }
+  },
+  {
+    "name": "Quantitative Research Analyst – 2025 Intern (Europe)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:34:24.670Z",
+    "uniqueIdentifier": "citadel-quantitative-research-analyst-2025-intern-europe",
+    "location": "London, Paris",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-2025-intern-europe/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-research-analyst-2025-intern-europe"
     }
   },
   {
