@@ -459,19 +459,6 @@
     }
   },
   {
-    "name": "Sector Data Analyst – 2025 Intern (Europe)",
-    "company": "Citadel",
-    "scrapeDate": "2025-03-11T06:34:24.670Z",
-    "uniqueIdentifier": "citadel-sector-data-analyst-2025-intern-europe",
-    "location": "London",
-    "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/sector-data-analyst-2025-intern-europe/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "sector-data-analyst-2025-intern-europe"
-    }
-  },
-  {
     "name": "Software Engineer – 2025 Intern (Asia)",
     "company": "Citadel",
     "scrapeDate": "2025-03-11T06:34:24.670Z",
