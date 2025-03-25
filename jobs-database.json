@@ -392,6 +392,45 @@
     }
   },
   {
+    "name": "Software Engineer – 2025 Intern (Asia)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:34:24.670Z",
+    "uniqueIdentifier": "citadel-software-engineer-2025-intern-asia",
+    "location": "Singapore",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/software-engineer-2025-intern-asia/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "software-engineer-2025-intern-asia"
+    }
+  },
+  {
+    "name": "Software Engineer –  2025 Intern (Europe)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:34:24.670Z",
+    "uniqueIdentifier": "citadel-software-engineer-2025-intern-europe",
+    "location": "London",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/software-engineer-2025-intern-europe/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "software-engineer-2025-intern-europe"
+    }
+  },
+  {
+    "name": "Software Engineer – 2025 Intern (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:34:24.670Z",
+    "uniqueIdentifier": "citadel-software-engineer-2025-intern-us",
+    "location": "Chicago, Miami, New York",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/software-engineer-2025-intern-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "software-engineer-2025-intern-us"
+    }
+  },
+  {
     "name": "Site Reliability Engineer – 2025 Intern (Asia)",
     "company": "Citadel",
     "scrapeDate": "2025-03-11T06:34:24.670Z",
@@ -431,29 +470,42 @@
     }
   },
   {
-    "name": "Software Engineer – 2025 Intern (Asia)",
+    "name": "Quantitative Research Analyst  – 2025 Intern (US)",
     "company": "Citadel",
     "scrapeDate": "2025-03-11T06:34:24.670Z",
-    "uniqueIdentifier": "citadel-software-engineer-2025-intern-asia",
-    "location": "Singapore",
+    "uniqueIdentifier": "citadel-quantitative-research-analyst-2025-intern-us",
+    "location": "Chicago, Miami, New York",
     "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/software-engineer-2025-intern-asia/",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-2025-intern-us/",
     "extra": {
       "type": "Internship",
-      "positionId": "software-engineer-2025-intern-asia"
+      "positionId": "quantitative-research-analyst-2025-intern-us"
     }
   },
   {
-    "name": "Software Engineer –  2025 Intern (Europe)",
+    "name": "Quantitative Research Analyst – 2025 Intern (Europe)",
     "company": "Citadel",
     "scrapeDate": "2025-03-11T06:34:24.670Z",
-    "uniqueIdentifier": "citadel-software-engineer-2025-intern-europe",
-    "location": "London",
+    "uniqueIdentifier": "citadel-quantitative-research-analyst-2025-intern-europe",
+    "location": "London, Paris",
     "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/software-engineer-2025-intern-europe/",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-2025-intern-europe/",
     "extra": {
       "type": "Internship",
-      "positionId": "software-engineer-2025-intern-europe"
+      "positionId": "quantitative-research-analyst-2025-intern-europe"
+    }
+  },
+  {
+    "name": "Quantitative Research Analyst – 2025 Intern (Asia)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:34:24.670Z",
+    "uniqueIdentifier": "citadel-quantitative-research-analyst-2025-intern-asia",
+    "location": "Hong Kong, Singapore",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-2025-intern-asia/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-research-analyst-2025-intern-asia"
     }
   },
   {
@@ -467,45 +519,6 @@
     "extra": {
       "type": "Internship",
       "positionId": "quantitative-researcher-2025-phd-intern-us"
-    }
-  },
-  {
-    "name": "Software Engineer – 2025 Intern (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-03-11T06:34:24.670Z",
-    "uniqueIdentifier": "citadel-software-engineer-2025-intern-us",
-    "location": "Chicago, Miami, New York",
-    "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/software-engineer-2025-intern-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "software-engineer-2025-intern-us"
-    }
-  },
-  {
-    "name": "Investment and Trading – 2025 Intern (Europe)",
-    "company": "Citadel",
-    "scrapeDate": "2025-03-11T06:34:24.670Z",
-    "uniqueIdentifier": "citadel-investment-and-trading-2025-intern-europe",
-    "location": "London, Paris",
-    "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/investment-and-trading-2025-intern-europe/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "investment-and-trading-2025-intern-europe"
-    }
-  },
-  {
-    "name": "International Equities – 2025 Intern (Asia)",
-    "company": "Citadel",
-    "scrapeDate": "2025-03-11T06:34:24.670Z",
-    "uniqueIdentifier": "citadel-international-equities-2025-intern-asia",
-    "location": "Hong Kong, Singapore",
-    "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/international-equities-2025-intern-asia/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "international-equities-2025-intern-asia"
     }
   },
   {
@@ -535,6 +548,32 @@
     }
   },
   {
+    "name": "Investment and Trading – 2025 Intern (Europe)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:34:24.670Z",
+    "uniqueIdentifier": "citadel-investment-and-trading-2025-intern-europe",
+    "location": "London, Paris",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/investment-and-trading-2025-intern-europe/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "investment-and-trading-2025-intern-europe"
+    }
+  },
+  {
+    "name": "International Equities – 2025 Intern (Asia)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:34:24.670Z",
+    "uniqueIdentifier": "citadel-international-equities-2025-intern-asia",
+    "location": "Hong Kong, Singapore",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/international-equities-2025-intern-asia/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "international-equities-2025-intern-asia"
+    }
+  },
+  {
     "name": "International Equities Associate – 2025 Intern (Europe)",
     "company": "Citadel",
     "scrapeDate": "2025-03-11T06:34:24.670Z",
@@ -558,45 +597,6 @@
     "extra": {
       "type": "Internship",
       "positionId": "launch-2025-intern-us"
-    }
-  },
-  {
-    "name": "Quantitative Research Analyst – 2025 Intern (Asia)",
-    "company": "Citadel",
-    "scrapeDate": "2025-03-11T06:34:24.670Z",
-    "uniqueIdentifier": "citadel-quantitative-research-analyst-2025-intern-asia",
-    "location": "Hong Kong, Singapore",
-    "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-2025-intern-asia/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-research-analyst-2025-intern-asia"
-    }
-  },
-  {
-    "name": "Quantitative Research Analyst – 2025 Intern (Europe)",
-    "company": "Citadel",
-    "scrapeDate": "2025-03-11T06:34:24.670Z",
-    "uniqueIdentifier": "citadel-quantitative-research-analyst-2025-intern-europe",
-    "location": "London, Paris",
-    "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-2025-intern-europe/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-research-analyst-2025-intern-europe"
-    }
-  },
-  {
-    "name": "Quantitative Research Analyst  – 2025 Intern (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-03-11T06:34:24.670Z",
-    "uniqueIdentifier": "citadel-quantitative-research-analyst-2025-intern-us",
-    "location": "Chicago, Miami, New York",
-    "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-2025-intern-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-research-analyst-2025-intern-us"
     }
   },
   {
