@@ -84,6 +84,20 @@
     }
   },
   {
+    "name": "LDN WiSE 2025",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-26T16:30:52.836Z",
+    "uniqueIdentifier": "jane-street-7928392002",
+    "location": "London",
+    "seasonDuration": "April-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/7928392002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7928392002"
+    }
+  },
+  {
     "name": "Linux Engineer",
     "company": "Jane Street",
     "scrapeDate": "2025-03-11T06:34:22.298Z",
@@ -235,6 +249,20 @@
       "type": "Internship",
       "department": "Technology",
       "positionId": "7637256002"
+    }
+  },
+  {
+    "name": "LDN WiSE 2025",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-26T16:30:52.836Z",
+    "uniqueIdentifier": "jane-street-7928392002",
+    "location": "London",
+    "seasonDuration": "April-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/7928392002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7928392002"
     }
   },
   {
