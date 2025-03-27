@@ -98,62 +98,6 @@
     }
   },
   {
-    "name": "NYC Summer INSIGHT 2025 - Software Engineering",
-    "company": "Jane Street",
-    "scrapeDate": "2025-03-26T19:19:13.976Z",
-    "uniqueIdentifier": "jane-street-7928407002",
-    "location": "New York",
-    "seasonDuration": "April-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/7928407002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "7928407002"
-    }
-  },
-  {
-    "name": "NYC Summer INSIGHT 2025 - Strategy and Product",
-    "company": "Jane Street",
-    "scrapeDate": "2025-03-26T19:19:13.976Z",
-    "uniqueIdentifier": "jane-street-7928400002",
-    "location": "New York",
-    "seasonDuration": "April-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/7928400002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Strategy and Product",
-      "positionId": "7928400002"
-    }
-  },
-  {
-    "name": "NYC Summer INSIGHT 2025 - Trading and Research",
-    "company": "Jane Street",
-    "scrapeDate": "2025-03-26T19:19:13.976Z",
-    "uniqueIdentifier": "jane-street-7928411002",
-    "location": "New York",
-    "seasonDuration": "June-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/7928411002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Trading, Research, and Machine Learning",
-      "positionId": "7928411002"
-    }
-  },
-  {
-    "name": "NYC WiSE 2025",
-    "company": "Jane Street",
-    "scrapeDate": "2025-03-26T18:32:19.073Z",
-    "uniqueIdentifier": "jane-street-7928388002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/7928388002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Trading, Research, and Machine Learning",
-      "positionId": "7928388002"
-    }
-  },
-  {
     "name": "Strategy and Product",
     "company": "Jane Street",
     "scrapeDate": "2025-03-11T06:34:22.298Z",
@@ -305,62 +249,6 @@
       "type": "Internship",
       "department": "Technology",
       "positionId": "7586655002"
-    }
-  },
-  {
-    "name": "NYC Summer INSIGHT 2025 - Software Engineering",
-    "company": "Jane Street",
-    "scrapeDate": "2025-03-26T19:19:13.976Z",
-    "uniqueIdentifier": "jane-street-7928407002",
-    "location": "New York",
-    "seasonDuration": "April-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/7928407002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "7928407002"
-    }
-  },
-  {
-    "name": "NYC Summer INSIGHT 2025 - Strategy and Product",
-    "company": "Jane Street",
-    "scrapeDate": "2025-03-26T19:19:13.976Z",
-    "uniqueIdentifier": "jane-street-7928400002",
-    "location": "New York",
-    "seasonDuration": "April-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/7928400002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Strategy and Product",
-      "positionId": "7928400002"
-    }
-  },
-  {
-    "name": "NYC Summer INSIGHT 2025 - Trading and Research",
-    "company": "Jane Street",
-    "scrapeDate": "2025-03-26T19:19:13.976Z",
-    "uniqueIdentifier": "jane-street-7928411002",
-    "location": "New York",
-    "seasonDuration": "June-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/7928411002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Trading, Research, and Machine Learning",
-      "positionId": "7928411002"
-    }
-  },
-  {
-    "name": "NYC WiSE 2025",
-    "company": "Jane Street",
-    "scrapeDate": "2025-03-26T18:32:19.073Z",
-    "uniqueIdentifier": "jane-street-7928388002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/7928388002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Trading, Research, and Machine Learning",
-      "positionId": "7928388002"
     }
   },
   {
