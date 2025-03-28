@@ -334,19 +334,6 @@
     }
   },
   {
-    "name": "Quantitative Research Analyst  – 2025 Intern (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-03-11T06:34:24.670Z",
-    "uniqueIdentifier": "citadel-quantitative-research-analyst-2025-intern-us",
-    "location": "Chicago, Miami, New York",
-    "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-2025-intern-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-research-analyst-2025-intern-us"
-    }
-  },
-  {
     "name": "Site Reliability Engineer – 2025 Intern (Asia)",
     "company": "Citadel",
     "scrapeDate": "2025-03-11T06:34:24.670Z",
@@ -464,19 +451,6 @@
     }
   },
   {
-    "name": "Operations – 2025 Intern (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-03-11T06:34:24.670Z",
-    "uniqueIdentifier": "citadel-operations-2025-intern-us",
-    "location": "New York",
-    "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/operations-2025-intern-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "operations-2025-intern-us"
-    }
-  },
-  {
     "name": "International Equities Associate – 2025 Intern (Europe)",
     "company": "Citadel",
     "scrapeDate": "2025-03-11T06:34:24.670Z",
@@ -526,6 +500,19 @@
     "extra": {
       "type": "Internship",
       "positionId": "quantitative-research-analyst-2025-intern-europe"
+    }
+  },
+  {
+    "name": "Quantitative Research Analyst  – 2025 Intern (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:34:24.670Z",
+    "uniqueIdentifier": "citadel-quantitative-research-analyst-2025-intern-us",
+    "location": "Chicago, Miami, New York",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-2025-intern-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-research-analyst-2025-intern-us"
     }
   },
   {
