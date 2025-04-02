@@ -358,6 +358,19 @@
     }
   },
   {
+    "name": "Software Engineer – 2025 Intern (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:34:24.670Z",
+    "uniqueIdentifier": "citadel-software-engineer-2025-intern-us",
+    "location": "Chicago, Miami, New York",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/software-engineer-2025-intern-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "software-engineer-2025-intern-us"
+    }
+  },
+  {
     "name": "Investment and Trading – 2025 Intern (Europe)",
     "company": "Citadel",
     "scrapeDate": "2025-03-11T06:34:24.670Z",
@@ -498,19 +511,6 @@
     "extra": {
       "type": "Internship",
       "positionId": "citadel-associate-program-equities-summer-internship-2026-us"
-    }
-  },
-  {
-    "name": "Software Engineer – 2025 Intern (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-03-11T06:34:24.670Z",
-    "uniqueIdentifier": "citadel-software-engineer-2025-intern-us",
-    "location": "Chicago, Miami, New York",
-    "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/software-engineer-2025-intern-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "software-engineer-2025-intern-us"
     }
   }
 ]
