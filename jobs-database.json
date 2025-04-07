@@ -224,19 +224,6 @@
     }
   },
   {
-    "name": "Citadel Associate Program (Equities) – Summer Internship 2026 (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-03-11T06:34:24.670Z",
-    "uniqueIdentifier": "citadel-citadel-associate-program-equities-summer-internship-2026-us",
-    "location": "New York",
-    "seasonDuration": "2026",
-    "url": "https://www.citadel.com/careers/details/citadel-associate-program-equities-summer-internship-2026-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "citadel-associate-program-equities-summer-internship-2026-us"
-    }
-  },
-  {
     "name": "Quantitative Researcher – 2025 PhD Intern (Asia)",
     "company": "Citadel",
     "scrapeDate": "2025-03-11T06:34:24.670Z",
@@ -455,6 +442,19 @@
     "extra": {
       "type": "Internship",
       "positionId": "investment-trading-2025-intern-us"
+    }
+  },
+  {
+    "name": "Citadel Associate Program (Equities) – Summer Internship 2026 (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:34:24.670Z",
+    "uniqueIdentifier": "citadel-citadel-associate-program-equities-summer-internship-2026-us",
+    "location": "New York",
+    "seasonDuration": "2026",
+    "url": "https://www.citadel.com/careers/details/citadel-associate-program-equities-summer-internship-2026-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "citadel-associate-program-equities-summer-internship-2026-us"
     }
   }
 ]
