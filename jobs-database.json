@@ -224,6 +224,19 @@
     }
   },
   {
+    "name": "Quantitative Researcher – 2025 PhD Intern (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:34:24.670Z",
+    "uniqueIdentifier": "citadel-quantitative-researcher-2025-phd-intern-us",
+    "location": "Chicago, Miami, New York",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/quantitative-researcher-2025-phd-intern-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-researcher-2025-phd-intern-us"
+    }
+  },
+  {
     "name": "Quantitative Researcher – 2025 PhD Intern (Asia)",
     "company": "Citadel",
     "scrapeDate": "2025-03-11T06:34:24.670Z",
@@ -289,19 +302,6 @@
     }
   },
   {
-    "name": "Quantitative Researcher – 2025 PhD Intern (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-03-11T06:34:24.670Z",
-    "uniqueIdentifier": "citadel-quantitative-researcher-2025-phd-intern-us",
-    "location": "Chicago, Miami, New York",
-    "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/quantitative-researcher-2025-phd-intern-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-researcher-2025-phd-intern-us"
-    }
-  },
-  {
     "name": "Software Engineer – 2025 Intern (US)",
     "company": "Citadel",
     "scrapeDate": "2025-03-11T06:34:24.670Z",
@@ -312,19 +312,6 @@
     "extra": {
       "type": "Internship",
       "positionId": "software-engineer-2025-intern-us"
-    }
-  },
-  {
-    "name": "Investment and Trading – 2025 Intern (Europe)",
-    "company": "Citadel",
-    "scrapeDate": "2025-03-11T06:34:24.670Z",
-    "uniqueIdentifier": "citadel-investment-and-trading-2025-intern-europe",
-    "location": "London, Paris",
-    "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/investment-and-trading-2025-intern-europe/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "investment-and-trading-2025-intern-europe"
     }
   },
   {
@@ -367,19 +354,6 @@
     }
   },
   {
-    "name": "International Equities Associate – 2025 Intern (Europe)",
-    "company": "Citadel",
-    "scrapeDate": "2025-03-11T06:34:24.670Z",
-    "uniqueIdentifier": "citadel-international-equities-associate-2025-intern-europe",
-    "location": "London",
-    "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/international-equities-associate-2025-intern-europe/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "international-equities-associate-2025-intern-europe"
-    }
-  },
-  {
     "name": "Launch – 2025 Intern (US)",
     "company": "Citadel",
     "scrapeDate": "2025-03-11T06:34:24.670Z",
@@ -390,6 +364,19 @@
     "extra": {
       "type": "Internship",
       "positionId": "launch-2025-intern-us"
+    }
+  },
+  {
+    "name": "Investment and Trading – 2025 Intern (Europe)",
+    "company": "Citadel",
+    "scrapeDate": "2025-03-11T06:34:24.670Z",
+    "uniqueIdentifier": "citadel-investment-and-trading-2025-intern-europe",
+    "location": "London, Paris",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/investment-and-trading-2025-intern-europe/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "investment-and-trading-2025-intern-europe"
     }
   },
   {
