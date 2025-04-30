@@ -224,19 +224,6 @@
     }
   },
   {
-    "name": "Quantitative Research Analyst – 2025 University Graduate (Europe)",
-    "company": "Citadel",
-    "scrapeDate": "2025-04-25T21:22:57.651Z",
-    "uniqueIdentifier": "citadel-quantitative-research-analyst-2025-university-graduate-europe",
-    "location": "London",
-    "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-2025-university-graduate-europe/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-research-analyst-2025-university-graduate-europe"
-    }
-  },
-  {
     "name": "Software Engineer – 2025 University Graduate (US)",
     "company": "Citadel",
     "scrapeDate": "2025-04-21T15:25:02.498Z",
@@ -273,6 +260,19 @@
     "extra": {
       "type": "Internship",
       "positionId": "software-engineer-2025-intern-us"
+    }
+  },
+  {
+    "name": "Quantitative Research Analyst – 2025 University Graduate (Europe)",
+    "company": "Citadel",
+    "scrapeDate": "2025-04-25T21:22:57.651Z",
+    "uniqueIdentifier": "citadel-quantitative-research-analyst-2025-university-graduate-europe",
+    "location": "London",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-2025-university-graduate-europe/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-research-analyst-2025-university-graduate-europe"
     }
   },
   {
