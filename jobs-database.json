@@ -263,19 +263,6 @@
     }
   },
   {
-    "name": "Quantitative Researcher – 2025 PhD Intern (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-04-28T18:33:17.857Z",
-    "uniqueIdentifier": "citadel-quantitative-researcher-2025-phd-intern-us",
-    "location": "Chicago, Miami, New York",
-    "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/quantitative-researcher-2025-phd-intern-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-researcher-2025-phd-intern-us"
-    }
-  },
-  {
     "name": "Quantitative Researcher – 2025 PhD Intern (Asia)",
     "company": "Citadel",
     "scrapeDate": "2025-03-11T06:34:24.670Z",
@@ -351,6 +338,19 @@
     "extra": {
       "type": "Internship",
       "positionId": "operations-analyst-2025-intern-europe"
+    }
+  },
+  {
+    "name": "Launch – 2025 Intern (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-05-05T18:30:19.779Z",
+    "uniqueIdentifier": "citadel-launch-2025-intern-us",
+    "location": "Chicago, Miami, New York",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/launch-2025-intern-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "launch-2025-intern-us"
     }
   }
 ]
