@@ -276,19 +276,6 @@
     }
   },
   {
-    "name": "Quantitative Researcher – 2025 PhD Graduate (Europe)",
-    "company": "Citadel",
-    "scrapeDate": "2025-04-29T19:19:45.381Z",
-    "uniqueIdentifier": "citadel-quantitative-researcher-2025-phd-graduate-europe",
-    "location": "London",
-    "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/quantitative-researcher-2025-phd-graduate-europe/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-researcher-2025-phd-graduate-europe"
-    }
-  },
-  {
     "name": "Quantitative Researcher – 2025 PhD Intern (Europe)",
     "company": "Citadel",
     "scrapeDate": "2025-05-01T14:22:02.737Z",
@@ -299,19 +286,6 @@
     "extra": {
       "type": "Internship",
       "positionId": "quantitative-researcher-2025-phd-intern-europe"
-    }
-  },
-  {
-    "name": "International Equities – 2025 Intern (Asia)",
-    "company": "Citadel",
-    "scrapeDate": "2025-05-01T17:21:34.358Z",
-    "uniqueIdentifier": "citadel-international-equities-2025-intern-asia",
-    "location": "Hong Kong, Singapore",
-    "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/international-equities-2025-intern-asia/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "international-equities-2025-intern-asia"
     }
   },
   {
@@ -351,6 +325,32 @@
     "extra": {
       "type": "Internship",
       "positionId": "launch-2025-intern-us"
+    }
+  },
+  {
+    "name": "Quantitative Research Analyst  – 2025 University Graduate (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-05-06T04:29:06.888Z",
+    "uniqueIdentifier": "citadel-quantitative-research-analyst-2025-university-graduate-us",
+    "location": "Chicago, Miami, New York",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-2025-university-graduate-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-research-analyst-2025-university-graduate-us"
+    }
+  },
+  {
+    "name": "Quantitative Researcher – 2025 PhD Graduate (Asia)",
+    "company": "Citadel",
+    "scrapeDate": "2025-05-06T04:29:06.888Z",
+    "uniqueIdentifier": "citadel-quantitative-researcher-2025-phd-graduate-asia",
+    "location": "Hong Kong, Singapore",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/quantitative-researcher-2025-phd-graduate-asia/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-researcher-2025-phd-graduate-asia"
     }
   }
 ]
