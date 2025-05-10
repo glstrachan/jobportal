@@ -224,6 +224,19 @@
     }
   },
   {
+    "name": "Quantitative Researcher – PhD Intern (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-05-10T01:51:03.036Z",
+    "uniqueIdentifier": "citadel-quantitative-researcher-phd-intern-us",
+    "location": "Chicago, Miami, New York",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-researcher-phd-intern-us"
+    }
+  },
+  {
     "name": "International Equities – 2026 Intern (Asia)",
     "company": "Citadel",
     "scrapeDate": "2025-05-01T17:21:34.358Z",
