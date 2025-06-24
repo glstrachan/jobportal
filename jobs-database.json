@@ -224,6 +224,19 @@
     }
   },
   {
+    "name": "Sector Data Analyst – 2026 Intern (Europe)",
+    "company": "Citadel",
+    "scrapeDate": "2025-06-13T09:27:17.259Z",
+    "uniqueIdentifier": "citadel-sector-data-analyst-2026-intern-europe",
+    "location": "London",
+    "seasonDuration": "2026",
+    "url": "https://www.citadel.com/careers/details/sector-data-analyst-2026-intern-europe/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "sector-data-analyst-2026-intern-europe"
+    }
+  },
+  {
     "name": "International Equities – 2026 Intern (Asia)",
     "company": "Citadel",
     "scrapeDate": "2025-06-13T09:27:17.259Z",
@@ -237,16 +250,16 @@
     }
   },
   {
-    "name": "Sector Data Analyst – 2026 Intern (Europe)",
+    "name": "International Equities Associate – Intern (Europe)",
     "company": "Citadel",
-    "scrapeDate": "2025-06-13T09:27:17.259Z",
-    "uniqueIdentifier": "citadel-sector-data-analyst-2026-intern-europe",
+    "scrapeDate": "2025-06-24T14:26:39.137Z",
+    "uniqueIdentifier": "citadel-international-equities-associate-intern-europe",
     "location": "London",
-    "seasonDuration": "2026",
-    "url": "https://www.citadel.com/careers/details/sector-data-analyst-2026-intern-europe/",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/international-equities-associate-intern-europe/",
     "extra": {
       "type": "Internship",
-      "positionId": "sector-data-analyst-2026-intern-europe"
+      "positionId": "international-equities-associate-intern-europe"
     }
   },
   {
@@ -338,19 +351,6 @@
     "extra": {
       "type": "Internship",
       "positionId": "quantitative-researcher-phd-intern-us"
-    }
-  },
-  {
-    "name": "Quantitative Researcher – 2025 PhD Graduate (Europe)",
-    "company": "Citadel",
-    "scrapeDate": "2025-06-24T12:52:05.703Z",
-    "uniqueIdentifier": "citadel-quantitative-researcher-2025-phd-graduate-europe",
-    "location": "London",
-    "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/quantitative-researcher-2025-phd-graduate-europe/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-researcher-2025-phd-graduate-europe"
     }
   }
 ]
