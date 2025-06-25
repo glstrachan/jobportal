@@ -2,20 +2,6 @@
   {
     "name": "Quantitative Trader",
     "company": "Jane Street",
-    "scrapeDate": "2025-03-11T06:34:22.297Z",
-    "uniqueIdentifier": "jane-street-7589526002",
-    "location": "Hong Kong",
-    "seasonDuration": "December-February",
-    "url": "https://www.janestreet.com/join-jane-street/position/7589526002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Trading, Research, and Machine Learning",
-      "positionId": "7589526002"
-    }
-  },
-  {
-    "name": "Quantitative Trader",
-    "company": "Jane Street",
     "scrapeDate": "2025-06-23T08:35:16.774Z",
     "uniqueIdentifier": "jane-street-8010144002",
     "location": "Hong Kong",
@@ -25,6 +11,20 @@
       "type": "Internship",
       "department": "Trading, Research, and Machine Learning",
       "positionId": "8010144002"
+    }
+  },
+  {
+    "name": "Quantitative Trader",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:34:22.297Z",
+    "uniqueIdentifier": "jane-street-7589526002",
+    "location": "Hong Kong",
+    "seasonDuration": "December-February",
+    "url": "https://www.janestreet.com/join-jane-street/position/7589526002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7589526002"
     }
   },
   {
@@ -114,20 +114,6 @@
   {
     "name": "Quantitative Trader",
     "company": "Jane Street",
-    "scrapeDate": "2025-03-11T06:34:22.297Z",
-    "uniqueIdentifier": "jane-street-7589526002",
-    "location": "Hong Kong",
-    "seasonDuration": "December-February",
-    "url": "https://www.janestreet.com/join-jane-street/position/7589526002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Trading, Research, and Machine Learning",
-      "positionId": "7589526002"
-    }
-  },
-  {
-    "name": "Quantitative Trader",
-    "company": "Jane Street",
     "scrapeDate": "2025-06-23T08:35:16.774Z",
     "uniqueIdentifier": "jane-street-8010144002",
     "location": "Hong Kong",
@@ -137,6 +123,20 @@
       "type": "Internship",
       "department": "Trading, Research, and Machine Learning",
       "positionId": "8010144002"
+    }
+  },
+  {
+    "name": "Quantitative Trader",
+    "company": "Jane Street",
+    "scrapeDate": "2025-03-11T06:34:22.297Z",
+    "uniqueIdentifier": "jane-street-7589526002",
+    "location": "Hong Kong",
+    "seasonDuration": "December-February",
+    "url": "https://www.janestreet.com/join-jane-street/position/7589526002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7589526002"
     }
   },
   {
@@ -221,19 +221,6 @@
       "type": "Internship",
       "department": "Trading, Research, and Machine Learning",
       "positionId": "7847966002"
-    }
-  },
-  {
-    "name": "Sector Data Analyst – 2026 Intern (Europe)",
-    "company": "Citadel",
-    "scrapeDate": "2025-06-13T09:27:17.259Z",
-    "uniqueIdentifier": "citadel-sector-data-analyst-2026-intern-europe",
-    "location": "London",
-    "seasonDuration": "2026",
-    "url": "https://www.citadel.com/careers/details/sector-data-analyst-2026-intern-europe/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "sector-data-analyst-2026-intern-europe"
     }
   },
   {
@@ -247,6 +234,19 @@
     "extra": {
       "type": "Internship",
       "positionId": "international-equities-2026-intern-asia"
+    }
+  },
+  {
+    "name": "Sector Data Analyst – 2026 Intern (Europe)",
+    "company": "Citadel",
+    "scrapeDate": "2025-06-13T09:27:17.259Z",
+    "uniqueIdentifier": "citadel-sector-data-analyst-2026-intern-europe",
+    "location": "London",
+    "seasonDuration": "2026",
+    "url": "https://www.citadel.com/careers/details/sector-data-analyst-2026-intern-europe/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "sector-data-analyst-2026-intern-europe"
     }
   },
   {
@@ -286,19 +286,6 @@
     "extra": {
       "type": "Internship",
       "positionId": "quantitative-researcher-2025-phd-graduate-asia"
-    }
-  },
-  {
-    "name": "Quantitative Researcher – 2025 PhD Intern (Asia)",
-    "company": "Citadel",
-    "scrapeDate": "2025-06-13T09:27:17.259Z",
-    "uniqueIdentifier": "citadel-quantitative-researcher-2025-phd-intern-asia",
-    "location": "Hong Kong, Singapore",
-    "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/quantitative-researcher-2025-phd-intern-asia/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-researcher-2025-phd-intern-asia"
     }
   },
   {
@@ -351,6 +338,19 @@
     "extra": {
       "type": "Internship",
       "positionId": "quantitative-researcher-phd-intern-us"
+    }
+  },
+  {
+    "name": "Quantitative Researcher – 2025 PhD Graduate (Europe)",
+    "company": "Citadel",
+    "scrapeDate": "2025-06-25T13:38:48.371Z",
+    "uniqueIdentifier": "citadel-quantitative-researcher-2025-phd-graduate-europe",
+    "location": "London",
+    "seasonDuration": "2025",
+    "url": "https://www.citadel.com/careers/details/quantitative-researcher-2025-phd-graduate-europe/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-researcher-2025-phd-graduate-europe"
     }
   }
 ]
