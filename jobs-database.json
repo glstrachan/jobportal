@@ -263,32 +263,6 @@
     }
   },
   {
-    "name": "Quantitative Researcher – 2025 PhD Graduate (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-06-13T09:27:17.259Z",
-    "uniqueIdentifier": "citadel-quantitative-researcher-2025-phd-graduate-us",
-    "location": "Chicago, Miami, New York",
-    "seasonDuration": "2025",
-    "url": "https://www.citadel.com/careers/details/quantitative-researcher-2025-phd-graduate-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-researcher-2025-phd-graduate-us"
-    }
-  },
-  {
-    "name": "Quantitative Researcher – PhD Intern (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-06-23T14:26:44.124Z",
-    "uniqueIdentifier": "citadel-quantitative-researcher-phd-intern-us",
-    "location": "Chicago, Miami, New York",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-researcher-phd-intern-us"
-    }
-  },
-  {
     "name": "Quantitative Researcher – 2026 PhD Intern (Europe)",
     "company": "Citadel",
     "scrapeDate": "2025-06-25T15:28:11.020Z",
