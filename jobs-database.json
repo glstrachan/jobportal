@@ -2,20 +2,6 @@
   {
     "name": "Quantitative Trader",
     "company": "Jane Street",
-    "scrapeDate": "2025-06-23T08:35:16.774Z",
-    "uniqueIdentifier": "jane-street-8010144002",
-    "location": "Hong Kong",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8010144002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Trading, Research, and Machine Learning",
-      "positionId": "8010144002"
-    }
-  },
-  {
-    "name": "Quantitative Trader",
-    "company": "Jane Street",
     "scrapeDate": "2025-03-11T06:34:22.297Z",
     "uniqueIdentifier": "jane-street-7589526002",
     "location": "Hong Kong",
@@ -25,6 +11,20 @@
       "type": "Internship",
       "department": "Trading, Research, and Machine Learning",
       "positionId": "7589526002"
+    }
+  },
+  {
+    "name": "Quantitative Trader",
+    "company": "Jane Street",
+    "scrapeDate": "2025-06-23T08:35:16.774Z",
+    "uniqueIdentifier": "jane-street-8010144002",
+    "location": "Hong Kong",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/8010144002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "8010144002"
     }
   },
   {
@@ -114,20 +114,6 @@
   {
     "name": "Quantitative Trader",
     "company": "Jane Street",
-    "scrapeDate": "2025-06-23T08:35:16.774Z",
-    "uniqueIdentifier": "jane-street-8010144002",
-    "location": "Hong Kong",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8010144002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Trading, Research, and Machine Learning",
-      "positionId": "8010144002"
-    }
-  },
-  {
-    "name": "Quantitative Trader",
-    "company": "Jane Street",
     "scrapeDate": "2025-03-11T06:34:22.297Z",
     "uniqueIdentifier": "jane-street-7589526002",
     "location": "Hong Kong",
@@ -137,6 +123,20 @@
       "type": "Internship",
       "department": "Trading, Research, and Machine Learning",
       "positionId": "7589526002"
+    }
+  },
+  {
+    "name": "Quantitative Trader",
+    "company": "Jane Street",
+    "scrapeDate": "2025-06-23T08:35:16.774Z",
+    "uniqueIdentifier": "jane-street-8010144002",
+    "location": "Hong Kong",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/8010144002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "8010144002"
     }
   },
   {
@@ -263,6 +263,32 @@
     }
   },
   {
+    "name": "Quantitative Research Engineer – PhD Graduate (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-06-27T14:24:27.676Z",
+    "uniqueIdentifier": "citadel-quantitative-research-engineer-phd-graduate-us",
+    "location": "Miami, New York",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-graduate-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-research-engineer-phd-graduate-us"
+    }
+  },
+  {
+    "name": "Quantitative Research Engineer – PhD Intern (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-06-27T14:24:27.676Z",
+    "uniqueIdentifier": "citadel-quantitative-research-engineer-phd-intern-us",
+    "location": "Miami, New York",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-research-engineer-phd-intern-us"
+    }
+  },
+  {
     "name": "Quantitative Researcher – 2026 PhD Intern (Europe)",
     "company": "Citadel",
     "scrapeDate": "2025-06-25T15:28:11.020Z",
@@ -276,16 +302,55 @@
     }
   },
   {
-    "name": "Equities – Citadel Associate Program – Full Time Program 2026 (US)",
+    "name": "Quantitative Research Analyst Intern – BS/MS (US)",
     "company": "Citadel",
-    "scrapeDate": "2025-06-25T15:28:11.020Z",
-    "uniqueIdentifier": "citadel-equities-citadel-associate-program-full-time-program-2026-us",
-    "location": "New York",
-    "seasonDuration": "2026",
-    "url": "https://www.citadel.com/careers/details/equities-citadel-associate-program-full-time-program-2026-us/",
+    "scrapeDate": "2025-06-27T14:24:27.676Z",
+    "uniqueIdentifier": "citadel-quantitative-research-analyst-intern-bs-ms-us",
+    "location": "Greenwich, Miami, New York",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/",
     "extra": {
       "type": "Internship",
-      "positionId": "equities-citadel-associate-program-full-time-program-2026-us"
+      "positionId": "quantitative-research-analyst-intern-bs-ms-us"
+    }
+  },
+  {
+    "name": "Quantitative Research Analyst  – University Graduate (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-06-27T14:24:27.676Z",
+    "uniqueIdentifier": "citadel-quantitative-research-analyst-university-graduate-us",
+    "location": "Miami, New York",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-research-analyst-university-graduate-us"
+    }
+  },
+  {
+    "name": "Quantitative Research Engineer – BS/MS (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-06-27T14:24:27.676Z",
+    "uniqueIdentifier": "citadel-quantitative-research-engineer-bs-ms-us",
+    "location": "New York",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-bs-ms-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-research-engineer-bs-ms-us"
+    }
+  },
+  {
+    "name": "Quantitative Researcher – PhD Graduate (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-06-27T14:24:27.676Z",
+    "uniqueIdentifier": "citadel-quantitative-researcher-phd-graduate-us",
+    "location": "Miami, New York",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-researcher-phd-graduate-us"
     }
   }
 ]
