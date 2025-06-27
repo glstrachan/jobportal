@@ -302,32 +302,6 @@
     }
   },
   {
-    "name": "Quantitative Research Analyst Intern – BS/MS (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-06-27T14:24:27.676Z",
-    "uniqueIdentifier": "citadel-quantitative-research-analyst-intern-bs-ms-us",
-    "location": "Greenwich, Miami, New York",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-research-analyst-intern-bs-ms-us"
-    }
-  },
-  {
-    "name": "Quantitative Research Analyst  – University Graduate (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-06-27T14:24:27.676Z",
-    "uniqueIdentifier": "citadel-quantitative-research-analyst-university-graduate-us",
-    "location": "Miami, New York",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-research-analyst-university-graduate-us"
-    }
-  },
-  {
     "name": "Quantitative Research Engineer – BS/MS (US)",
     "company": "Citadel",
     "scrapeDate": "2025-06-27T14:24:27.676Z",
@@ -351,6 +325,32 @@
     "extra": {
       "type": "Internship",
       "positionId": "quantitative-researcher-phd-graduate-us"
+    }
+  },
+  {
+    "name": "Quantitative Researcher – PhD Intern (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-06-27T15:26:48.157Z",
+    "uniqueIdentifier": "citadel-quantitative-researcher-phd-intern-us",
+    "location": "Greenwich, Miami, New York",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-researcher-phd-intern-us"
+    }
+  },
+  {
+    "name": "Equities – Citadel Associate Program – Full Time Program 2026 (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-06-27T15:26:48.157Z",
+    "uniqueIdentifier": "citadel-equities-citadel-associate-program-full-time-program-2026-us",
+    "location": "New York",
+    "seasonDuration": "2026",
+    "url": "https://www.citadel.com/careers/details/equities-citadel-associate-program-full-time-program-2026-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "equities-citadel-associate-program-full-time-program-2026-us"
     }
   }
 ]
