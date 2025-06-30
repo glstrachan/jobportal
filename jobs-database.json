@@ -289,6 +289,19 @@
     }
   },
   {
+    "name": "Launch Intern – (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-06-30T21:23:29.778Z",
+    "uniqueIdentifier": "citadel-launch-intern-us",
+    "location": "Chicago, Miami, New York",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/launch-intern-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "launch-intern-us"
+    }
+  },
+  {
     "name": "Quantitative Researcher – 2026 PhD Intern (Europe)",
     "company": "Citadel",
     "scrapeDate": "2025-06-25T15:28:11.020Z",
