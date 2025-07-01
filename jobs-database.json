@@ -224,19 +224,6 @@
     }
   },
   {
-    "name": "Software Engineer – Intern (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-06-30T23:24:05.233Z",
-    "uniqueIdentifier": "citadel-software-engineer-intern-us",
-    "location": "Chicago, Miami, New York",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "software-engineer-intern-us"
-    }
-  },
-  {
     "name": "International Equities – 2026 Intern (Asia)",
     "company": "Citadel",
     "scrapeDate": "2025-06-13T09:27:17.259Z",
@@ -302,19 +289,6 @@
     }
   },
   {
-    "name": "Quantitative Research Engineer – University Graduate (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-06-30T23:24:05.233Z",
-    "uniqueIdentifier": "citadel-quantitative-research-engineer-university-graduate-us",
-    "location": "New York",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-university-graduate-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-research-engineer-university-graduate-us"
-    }
-  },
-  {
     "name": "Quantitative Researcher – 2026 PhD Intern (Europe)",
     "company": "Citadel",
     "scrapeDate": "2025-06-25T15:28:11.020Z",
@@ -351,6 +325,19 @@
     "extra": {
       "type": "Internship",
       "positionId": "quantitative-researcher-phd-intern-us"
+    }
+  },
+  {
+    "name": "Equities – Citadel Associate Program – Full Time Program 2026 (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-07-01T02:12:34.402Z",
+    "uniqueIdentifier": "citadel-equities-citadel-associate-program-full-time-program-2026-us",
+    "location": "New York",
+    "seasonDuration": "2026",
+    "url": "https://www.citadel.com/careers/details/equities-citadel-associate-program-full-time-program-2026-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "equities-citadel-associate-program-full-time-program-2026-us"
     }
   }
 ]
