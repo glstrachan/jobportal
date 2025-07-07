@@ -341,16 +341,16 @@
     }
   },
   {
-    "name": "Sector Data Analyst – 2026 Intern (Europe)",
+    "name": "Launch Intern – (US)",
     "company": "Citadel",
-    "scrapeDate": "2025-06-13T09:27:17.259Z",
-    "uniqueIdentifier": "citadel-sector-data-analyst-2026-intern-europe",
-    "location": "London",
-    "seasonDuration": "2026",
-    "url": "https://www.citadel.com/careers/details/sector-data-analyst-2026-intern-europe/",
+    "scrapeDate": "2025-07-07T11:22:34.689Z",
+    "uniqueIdentifier": "citadel-launch-intern-us",
+    "location": "Chicago, Miami, New York",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/launch-intern-us/",
     "extra": {
       "type": "Internship",
-      "positionId": "sector-data-analyst-2026-intern-europe"
+      "positionId": "launch-intern-us"
     }
   }
 ]
