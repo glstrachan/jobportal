@@ -224,6 +224,19 @@
     }
   },
   {
+    "name": "Quantitative Researcher – PhD Intern (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-06-27T15:26:48.157Z",
+    "uniqueIdentifier": "citadel-quantitative-researcher-phd-intern-us",
+    "location": "Greenwich, Miami, New York",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-researcher-phd-intern-us"
+    }
+  },
+  {
     "name": "Quantitative Researcher – PhD Intern (Asia)",
     "company": "Citadel",
     "scrapeDate": "2025-07-01T21:24:00.595Z",
@@ -247,58 +260,6 @@
     "extra": {
       "type": "Internship",
       "positionId": "quantitative-researcher-phd-graduate-asia"
-    }
-  },
-  {
-    "name": "Quantitative Research Engineer – University Graduate (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-07-01T21:24:00.595Z",
-    "uniqueIdentifier": "citadel-quantitative-research-engineer-university-graduate-us",
-    "location": "New York",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-university-graduate-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-research-engineer-university-graduate-us"
-    }
-  },
-  {
-    "name": "Software Engineer – Intern (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-07-01T20:27:57.013Z",
-    "uniqueIdentifier": "citadel-software-engineer-intern-us",
-    "location": "Chicago, Miami, New York",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "software-engineer-intern-us"
-    }
-  },
-  {
-    "name": "Quantitative Researcher – PhD Graduate (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-07-01T21:24:00.595Z",
-    "uniqueIdentifier": "citadel-quantitative-researcher-phd-graduate-us",
-    "location": "Miami, New York",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-researcher-phd-graduate-us"
-    }
-  },
-  {
-    "name": "Quantitative Researcher – PhD Intern (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-06-27T15:26:48.157Z",
-    "uniqueIdentifier": "citadel-quantitative-researcher-phd-intern-us",
-    "location": "Greenwich, Miami, New York",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-researcher-phd-intern-us"
     }
   },
   {
@@ -328,29 +289,68 @@
     }
   },
   {
-    "name": "Quantitative Research Analyst Intern – BS/MS (US)",
+    "name": "Quantitative Researcher – PhD Graduate (US)",
     "company": "Citadel",
-    "scrapeDate": "2025-07-09T23:24:48.073Z",
-    "uniqueIdentifier": "citadel-quantitative-research-analyst-intern-bs-ms-us",
-    "location": "Greenwich, Miami, New York",
+    "scrapeDate": "2025-07-01T21:24:00.595Z",
+    "uniqueIdentifier": "citadel-quantitative-researcher-phd-graduate-us",
+    "location": "Miami, New York",
     "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/",
+    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/",
     "extra": {
       "type": "Internship",
-      "positionId": "quantitative-research-analyst-intern-bs-ms-us"
+      "positionId": "quantitative-researcher-phd-graduate-us"
     }
   },
   {
-    "name": "Quantitative Research Analyst  – University Graduate (Europe)",
+    "name": "Software Engineer – Intern (US)",
     "company": "Citadel",
-    "scrapeDate": "2025-07-09T23:24:48.073Z",
-    "uniqueIdentifier": "citadel-quantitative-research-analyst-university-graduate-europe",
-    "location": "Dublin, London, Paris, Zurich",
+    "scrapeDate": "2025-07-01T20:27:57.013Z",
+    "uniqueIdentifier": "citadel-software-engineer-intern-us",
+    "location": "Chicago, Miami, New York",
     "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/",
+    "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
     "extra": {
       "type": "Internship",
-      "positionId": "quantitative-research-analyst-university-graduate-europe"
+      "positionId": "software-engineer-intern-us"
+    }
+  },
+  {
+    "name": "Quantitative Research Engineer – University Graduate (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-07-01T21:24:00.595Z",
+    "uniqueIdentifier": "citadel-quantitative-research-engineer-university-graduate-us",
+    "location": "New York",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-university-graduate-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-research-engineer-university-graduate-us"
+    }
+  },
+  {
+    "name": "Quantitative Research Engineer – PhD Intern (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-07-10T02:03:52.649Z",
+    "uniqueIdentifier": "citadel-quantitative-research-engineer-phd-intern-us",
+    "location": "Miami, New York",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-research-engineer-phd-intern-us"
+    }
+  },
+  {
+    "name": "Launch Intern – (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-07-10T02:03:52.649Z",
+    "uniqueIdentifier": "citadel-launch-intern-us",
+    "location": "Chicago, Miami, New York",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/launch-intern-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "launch-intern-us"
     }
   }
 ]
