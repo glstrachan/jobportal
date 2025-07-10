@@ -636,19 +636,6 @@
     }
   },
   {
-    "name": "Quantitative Research Engineer – PhD Intern (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-07-10T02:03:52.649Z",
-    "uniqueIdentifier": "citadel-quantitative-research-engineer-phd-intern-us",
-    "location": "Miami, New York",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-research-engineer-phd-intern-us"
-    }
-  },
-  {
     "name": "Launch Intern – (US)",
     "company": "Citadel",
     "scrapeDate": "2025-07-10T02:03:52.649Z",
@@ -659,6 +646,19 @@
     "extra": {
       "type": "Internship",
       "positionId": "launch-intern-us"
+    }
+  },
+  {
+    "name": "Quantitative Research Engineer – PhD Intern (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-07-10T02:03:52.649Z",
+    "uniqueIdentifier": "citadel-quantitative-research-engineer-phd-intern-us",
+    "location": "Miami, New York",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-intern-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-research-engineer-phd-intern-us"
     }
   }
 ]
