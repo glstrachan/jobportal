@@ -87,20 +87,6 @@
     "name": "Machine Learning Researcher",
     "company": "Jane Street",
     "scrapeDate": "2025-07-10T14:26:30.941Z",
-    "uniqueIdentifier": "jane-street-8061523002",
-    "location": "Hong Kong",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8061523002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Trading, Research, and Machine Learning",
-      "positionId": "8061523002"
-    }
-  },
-  {
-    "name": "Machine Learning Researcher",
-    "company": "Jane Street",
-    "scrapeDate": "2025-07-10T14:26:30.941Z",
     "uniqueIdentifier": "jane-street-8060848002",
     "location": "New York",
     "seasonDuration": "May-August",
@@ -109,6 +95,20 @@
       "type": "Internship",
       "department": "Trading, Research, and Machine Learning",
       "positionId": "8060848002"
+    }
+  },
+  {
+    "name": "Machine Learning Researcher",
+    "company": "Jane Street",
+    "scrapeDate": "2025-07-10T14:26:30.941Z",
+    "uniqueIdentifier": "jane-street-8061523002",
+    "location": "Hong Kong",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/8061523002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "8061523002"
     }
   },
   {
@@ -367,20 +367,6 @@
     "name": "Machine Learning Researcher",
     "company": "Jane Street",
     "scrapeDate": "2025-07-10T14:26:30.941Z",
-    "uniqueIdentifier": "jane-street-8061523002",
-    "location": "Hong Kong",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8061523002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Trading, Research, and Machine Learning",
-      "positionId": "8061523002"
-    }
-  },
-  {
-    "name": "Machine Learning Researcher",
-    "company": "Jane Street",
-    "scrapeDate": "2025-07-10T14:26:30.941Z",
     "uniqueIdentifier": "jane-street-8060848002",
     "location": "New York",
     "seasonDuration": "May-August",
@@ -389,6 +375,20 @@
       "type": "Internship",
       "department": "Trading, Research, and Machine Learning",
       "positionId": "8060848002"
+    }
+  },
+  {
+    "name": "Machine Learning Researcher",
+    "company": "Jane Street",
+    "scrapeDate": "2025-07-10T14:26:30.941Z",
+    "uniqueIdentifier": "jane-street-8061523002",
+    "location": "Hong Kong",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/8061523002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "8061523002"
     }
   },
   {
@@ -586,6 +586,19 @@
     }
   },
   {
+    "name": "Quantitative Researcher – PhD Graduate (Asia)",
+    "company": "Citadel",
+    "scrapeDate": "2025-07-11T16:32:23.292Z",
+    "uniqueIdentifier": "citadel-quantitative-researcher-phd-graduate-asia",
+    "location": "Hong Kong, Singapore",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-asia/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-researcher-phd-graduate-asia"
+    }
+  },
+  {
     "name": "Quantitative Researcher – PhD Intern (Europe)",
     "company": "Citadel",
     "scrapeDate": "2025-07-01T20:27:57.013Z",
@@ -638,19 +651,6 @@
     }
   },
   {
-    "name": "Launch Intern – (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-07-10T02:03:52.649Z",
-    "uniqueIdentifier": "citadel-launch-intern-us",
-    "location": "Chicago, Miami, New York",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/launch-intern-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "launch-intern-us"
-    }
-  },
-  {
     "name": "Quantitative Research Engineer – University Graduate (US)",
     "company": "Citadel",
     "scrapeDate": "2025-07-01T21:24:00.595Z",
@@ -664,6 +664,19 @@
     }
   },
   {
+    "name": "Launch Intern – (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-07-10T02:03:52.649Z",
+    "uniqueIdentifier": "citadel-launch-intern-us",
+    "location": "Chicago, Miami, New York",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/launch-intern-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "launch-intern-us"
+    }
+  },
+  {
     "name": "Quantitative Research Engineer – PhD Intern (US)",
     "company": "Citadel",
     "scrapeDate": "2025-07-10T02:03:52.649Z",
@@ -674,19 +687,6 @@
     "extra": {
       "type": "Internship",
       "positionId": "quantitative-research-engineer-phd-intern-us"
-    }
-  },
-  {
-    "name": "Quantitative Research Engineer – PhD Graduate (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-07-11T15:28:08.389Z",
-    "uniqueIdentifier": "citadel-quantitative-research-engineer-phd-graduate-us",
-    "location": "Miami, New York",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-phd-graduate-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-research-engineer-phd-graduate-us"
     }
   }
 ]
