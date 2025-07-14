@@ -87,20 +87,6 @@
     "name": "Machine Learning Researcher",
     "company": "Jane Street",
     "scrapeDate": "2025-07-10T14:26:30.941Z",
-    "uniqueIdentifier": "jane-street-8060848002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8060848002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Trading, Research, and Machine Learning",
-      "positionId": "8060848002"
-    }
-  },
-  {
-    "name": "Machine Learning Researcher",
-    "company": "Jane Street",
-    "scrapeDate": "2025-07-10T14:26:30.941Z",
     "uniqueIdentifier": "jane-street-8061523002",
     "location": "Hong Kong",
     "seasonDuration": "May-August",
@@ -109,6 +95,20 @@
       "type": "Internship",
       "department": "Trading, Research, and Machine Learning",
       "positionId": "8061523002"
+    }
+  },
+  {
+    "name": "Machine Learning Researcher",
+    "company": "Jane Street",
+    "scrapeDate": "2025-07-10T14:26:30.941Z",
+    "uniqueIdentifier": "jane-street-8060848002",
+    "location": "New York",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/8060848002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "8060848002"
     }
   },
   {
@@ -367,20 +367,6 @@
     "name": "Machine Learning Researcher",
     "company": "Jane Street",
     "scrapeDate": "2025-07-10T14:26:30.941Z",
-    "uniqueIdentifier": "jane-street-8060848002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8060848002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Trading, Research, and Machine Learning",
-      "positionId": "8060848002"
-    }
-  },
-  {
-    "name": "Machine Learning Researcher",
-    "company": "Jane Street",
-    "scrapeDate": "2025-07-10T14:26:30.941Z",
     "uniqueIdentifier": "jane-street-8061523002",
     "location": "Hong Kong",
     "seasonDuration": "May-August",
@@ -389,6 +375,20 @@
       "type": "Internship",
       "department": "Trading, Research, and Machine Learning",
       "positionId": "8061523002"
+    }
+  },
+  {
+    "name": "Machine Learning Researcher",
+    "company": "Jane Street",
+    "scrapeDate": "2025-07-10T14:26:30.941Z",
+    "uniqueIdentifier": "jane-street-8060848002",
+    "location": "New York",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/8060848002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "8060848002"
     }
   },
   {
