@@ -588,16 +588,16 @@
     }
   },
   {
-    "name": "Quantitative Researcher – PhD Graduate (US)",
+    "name": "Software Engineer – Intern (Asia)",
     "company": "Citadel",
-    "scrapeDate": "2025-07-13T23:25:50.495Z",
-    "uniqueIdentifier": "citadel-quantitative-researcher-phd-graduate-us",
-    "location": "Miami, New York",
+    "scrapeDate": "2025-07-16T05:31:28.398Z",
+    "uniqueIdentifier": "citadel-software-engineer-intern-asia",
+    "location": "Singapore",
     "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/",
+    "url": "https://www.citadel.com/careers/details/software-engineer-intern-asia/",
     "extra": {
       "type": "Internship",
-      "positionId": "quantitative-researcher-phd-graduate-us"
+      "positionId": "software-engineer-intern-asia"
     }
   },
   {
@@ -666,16 +666,16 @@
     }
   },
   {
-    "name": "Software Engineer – Intern (Asia)",
+    "name": "Quantitative Researcher – PhD Graduate (US)",
     "company": "Citadel",
-    "scrapeDate": "2025-07-16T05:31:28.398Z",
-    "uniqueIdentifier": "citadel-software-engineer-intern-asia",
-    "location": "Singapore",
+    "scrapeDate": "2025-07-13T23:25:50.495Z",
+    "uniqueIdentifier": "citadel-quantitative-researcher-phd-graduate-us",
+    "location": "Miami, New York",
     "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/software-engineer-intern-asia/",
+    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/",
     "extra": {
       "type": "Internship",
-      "positionId": "software-engineer-intern-asia"
+      "positionId": "quantitative-researcher-phd-graduate-us"
     }
   },
   {
@@ -705,16 +705,16 @@
     }
   },
   {
-    "name": "Quantitative Research Engineer – University Graduate (US)",
+    "name": "Sector Data Analyst – Intern (Europe)",
     "company": "Citadel",
-    "scrapeDate": "2025-07-16T07:27:17.692Z",
-    "uniqueIdentifier": "citadel-quantitative-research-engineer-university-graduate-us",
-    "location": "New York",
+    "scrapeDate": "2025-07-16T13:42:01.305Z",
+    "uniqueIdentifier": "citadel-sector-data-analyst-intern-europe",
+    "location": "London",
     "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-university-graduate-us/",
+    "url": "https://www.citadel.com/careers/details/sector-data-analyst-intern-europe/",
     "extra": {
       "type": "Internship",
-      "positionId": "quantitative-research-engineer-university-graduate-us"
+      "positionId": "sector-data-analyst-intern-europe"
     }
   }
 ]
