@@ -588,16 +588,16 @@
     }
   },
   {
-    "name": "Software Engineer – Intern (Asia)",
+    "name": "Site Reliability Engineer – Intern (Asia)",
     "company": "Citadel",
-    "scrapeDate": "2025-07-16T05:31:28.398Z",
-    "uniqueIdentifier": "citadel-software-engineer-intern-asia",
+    "scrapeDate": "2025-07-16T08:35:27.776Z",
+    "uniqueIdentifier": "citadel-site-reliability-engineer-intern-asia",
     "location": "Singapore",
     "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/software-engineer-intern-asia/",
+    "url": "https://www.citadel.com/careers/details/site-reliability-engineer-intern-asia/",
     "extra": {
       "type": "Internship",
-      "positionId": "software-engineer-intern-asia"
+      "positionId": "site-reliability-engineer-intern-asia"
     }
   },
   {
@@ -653,19 +653,6 @@
     }
   },
   {
-    "name": "Quantitative Researcher – PhD Intern (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-07-13T23:25:50.495Z",
-    "uniqueIdentifier": "citadel-quantitative-researcher-phd-intern-us",
-    "location": "Greenwich, Miami, New York",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-researcher-phd-intern-us"
-    }
-  },
-  {
     "name": "Quantitative Researcher – PhD Graduate (US)",
     "company": "Citadel",
     "scrapeDate": "2025-07-13T23:25:50.495Z",
@@ -679,16 +666,16 @@
     }
   },
   {
-    "name": "Site Reliability Engineer – Intern (Asia)",
+    "name": "Software Engineer – Intern (Asia)",
     "company": "Citadel",
-    "scrapeDate": "2025-07-16T08:35:27.776Z",
-    "uniqueIdentifier": "citadel-site-reliability-engineer-intern-asia",
+    "scrapeDate": "2025-07-16T05:31:28.398Z",
+    "uniqueIdentifier": "citadel-software-engineer-intern-asia",
     "location": "Singapore",
     "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/site-reliability-engineer-intern-asia/",
+    "url": "https://www.citadel.com/careers/details/software-engineer-intern-asia/",
     "extra": {
       "type": "Internship",
-      "positionId": "site-reliability-engineer-intern-asia"
+      "positionId": "software-engineer-intern-asia"
     }
   },
   {
@@ -715,6 +702,19 @@
     "extra": {
       "type": "Internship",
       "positionId": "sector-data-analyst-intern-europe"
+    }
+  },
+  {
+    "name": "Launch Intern – (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-07-18T13:41:04.233Z",
+    "uniqueIdentifier": "citadel-launch-intern-us",
+    "location": "Chicago, Miami, New York",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/launch-intern-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "launch-intern-us"
     }
   }
 ]
