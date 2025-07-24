@@ -560,16 +560,16 @@
     }
   },
   {
-    "name": "Software Engineer – Intern (Asia)",
+    "name": "Software Engineer – University Graduate (Asia)",
     "company": "Citadel",
-    "scrapeDate": "2025-07-16T05:31:28.398Z",
-    "uniqueIdentifier": "citadel-software-engineer-intern-asia",
+    "scrapeDate": "2025-07-24T20:28:19.807Z",
+    "uniqueIdentifier": "citadel-software-engineer-university-graduate-asia",
     "location": "Singapore",
     "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/software-engineer-intern-asia/",
+    "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-asia/",
     "extra": {
       "type": "Internship",
-      "positionId": "software-engineer-intern-asia"
+      "positionId": "software-engineer-university-graduate-asia"
     }
   },
   {
@@ -651,6 +651,19 @@
     }
   },
   {
+    "name": "Software Engineer – Intern (Asia)",
+    "company": "Citadel",
+    "scrapeDate": "2025-07-16T05:31:28.398Z",
+    "uniqueIdentifier": "citadel-software-engineer-intern-asia",
+    "location": "Singapore",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/software-engineer-intern-asia/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "software-engineer-intern-asia"
+    }
+  },
+  {
     "name": "Site Reliability Engineer – Intern (Asia)",
     "company": "Citadel",
     "scrapeDate": "2025-07-16T08:35:27.776Z",
@@ -674,19 +687,6 @@
     "extra": {
       "type": "Internship",
       "positionId": "software-engineer-intern-us"
-    }
-  },
-  {
-    "name": "Quantitative Research Engineer – University Graduate (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-07-18T14:26:19.205Z",
-    "uniqueIdentifier": "citadel-quantitative-research-engineer-university-graduate-us",
-    "location": "New York",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-university-graduate-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-research-engineer-university-graduate-us"
     }
   }
 ]
