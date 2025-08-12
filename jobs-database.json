@@ -1036,6 +1036,19 @@
     }
   },
   {
+    "name": "Software Engineer – University Graduate (Europe)",
+    "company": "Citadel",
+    "scrapeDate": "2025-08-12T06:38:23.416Z",
+    "uniqueIdentifier": "citadel-software-engineer-university-graduate-europe",
+    "location": "London",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "software-engineer-university-graduate-europe"
+    }
+  },
+  {
     "name": "Software Engineer – Intern (Asia)",
     "company": "Citadel",
     "scrapeDate": "2025-08-02T13:34:39.065Z",
@@ -1088,6 +1101,19 @@
     }
   },
   {
+    "name": "Quantitative Research Analyst  – University Graduate (Europe)",
+    "company": "Citadel",
+    "scrapeDate": "2025-08-12T06:38:23.416Z",
+    "uniqueIdentifier": "citadel-quantitative-research-analyst-university-graduate-europe",
+    "location": "Dublin, London, Paris, Zurich",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-research-analyst-university-graduate-europe"
+    }
+  },
+  {
     "name": "Quantitative Researcher – PhD Intern (Europe)",
     "company": "Citadel",
     "scrapeDate": "2025-08-02T13:34:39.065Z",
@@ -1137,32 +1163,6 @@
     "extra": {
       "type": "Internship",
       "positionId": "quantitative-researcher-phd-graduate-us"
-    }
-  },
-  {
-    "name": "Software Engineer – University Graduate (Asia)",
-    "company": "Citadel",
-    "scrapeDate": "2025-08-02T13:34:39.065Z",
-    "uniqueIdentifier": "citadel-software-engineer-university-graduate-asia",
-    "location": "Singapore",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-asia/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "software-engineer-university-graduate-asia"
-    }
-  },
-  {
-    "name": "Site Reliability Engineer – Intern (Asia)",
-    "company": "Citadel",
-    "scrapeDate": "2025-08-02T13:34:39.065Z",
-    "uniqueIdentifier": "citadel-site-reliability-engineer-intern-asia",
-    "location": "Singapore",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/site-reliability-engineer-intern-asia/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "site-reliability-engineer-intern-asia"
     }
   }
 ]
