@@ -58,20 +58,6 @@
   {
     "name": "Quantitative Researcher",
     "company": "Jane Street",
-    "scrapeDate": "2025-08-04T09:38:34.503Z",
-    "uniqueIdentifier": "jane-street-8017833002",
-    "location": "London",
-    "seasonDuration": "June-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/8017833002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Trading, Research, and Machine Learning",
-      "positionId": "8017833002"
-    }
-  },
-  {
-    "name": "Quantitative Researcher",
-    "company": "Jane Street",
     "scrapeDate": "2025-07-31T11:24:00.902Z",
     "uniqueIdentifier": "jane-street-8095356002",
     "location": "Hong Kong",
@@ -81,6 +67,20 @@
       "type": "Internship",
       "department": "Trading, Research, and Machine Learning",
       "positionId": "8095356002"
+    }
+  },
+  {
+    "name": "Quantitative Researcher",
+    "company": "Jane Street",
+    "scrapeDate": "2025-08-04T09:38:34.503Z",
+    "uniqueIdentifier": "jane-street-8017833002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/8017833002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "8017833002"
     }
   },
   {
@@ -142,6 +142,20 @@
   {
     "name": "Software Engineer",
     "company": "Jane Street",
+    "scrapeDate": "2025-07-10T14:26:30.941Z",
+    "uniqueIdentifier": "jane-street-8040547002",
+    "location": "New York",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/8040547002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "8040547002"
+    }
+  },
+  {
+    "name": "Software Engineer",
+    "company": "Jane Street",
     "scrapeDate": "2025-08-04T13:49:02.478Z",
     "uniqueIdentifier": "jane-street-7961782002",
     "location": "London",
@@ -168,20 +182,6 @@
     }
   },
   {
-    "name": "Software Engineer",
-    "company": "Jane Street",
-    "scrapeDate": "2025-07-10T14:26:30.941Z",
-    "uniqueIdentifier": "jane-street-8040547002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8040547002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8040547002"
-    }
-  },
-  {
     "name": "Cybersecurity Analyst",
     "company": "Jane Street",
     "scrapeDate": "2025-07-14T17:24:56.349Z",
@@ -198,20 +198,6 @@
   {
     "name": "FPGA Engineer",
     "company": "Jane Street",
-    "scrapeDate": "2025-07-10T14:26:30.941Z",
-    "uniqueIdentifier": "jane-street-8062455002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8062455002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8062455002"
-    }
-  },
-  {
-    "name": "FPGA Engineer",
-    "company": "Jane Street",
     "scrapeDate": "2025-08-04T18:40:22.691Z",
     "uniqueIdentifier": "jane-street-8062422002",
     "location": "London",
@@ -221,6 +207,20 @@
       "type": "Internship",
       "department": "Technology",
       "positionId": "8062422002"
+    }
+  },
+  {
+    "name": "FPGA Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-07-10T14:26:30.941Z",
+    "uniqueIdentifier": "jane-street-8062455002",
+    "location": "New York",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/8062455002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "8062455002"
     }
   },
   {
@@ -240,15 +240,15 @@
   {
     "name": "IT Operations Engineer",
     "company": "Jane Street",
-    "scrapeDate": "2025-08-18T04:03:42.647Z",
-    "uniqueIdentifier": "jane-street-8104282002",
-    "location": "Hong Kong",
+    "scrapeDate": "2025-08-04T17:28:58.248Z",
+    "uniqueIdentifier": "jane-street-8065684002",
+    "location": "New York",
     "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8104282002/",
+    "url": "https://www.janestreet.com/join-jane-street/position/8065684002/",
     "extra": {
       "type": "Internship",
       "department": "Technology",
-      "positionId": "8104282002"
+      "positionId": "8065684002"
     }
   },
   {
@@ -268,6 +268,20 @@
   {
     "name": "IT Operations Engineer",
     "company": "Jane Street",
+    "scrapeDate": "2025-08-18T04:03:42.647Z",
+    "uniqueIdentifier": "jane-street-8104282002",
+    "location": "Hong Kong",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/8104282002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "8104282002"
+    }
+  },
+  {
+    "name": "IT Operations Engineer",
+    "company": "Jane Street",
     "scrapeDate": "2025-03-11T06:34:22.298Z",
     "uniqueIdentifier": "jane-street-7856267002",
     "location": "Hong Kong",
@@ -277,20 +291,6 @@
       "type": "Internship",
       "department": "Technology",
       "positionId": "7856267002"
-    }
-  },
-  {
-    "name": "IT Operations Engineer",
-    "company": "Jane Street",
-    "scrapeDate": "2025-08-04T17:28:58.248Z",
-    "uniqueIdentifier": "jane-street-8065684002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8065684002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8065684002"
     }
   },
   {
@@ -310,20 +310,6 @@
   {
     "name": "Linux Engineer",
     "company": "Jane Street",
-    "scrapeDate": "2025-08-04T18:40:22.691Z",
-    "uniqueIdentifier": "jane-street-8062886002",
-    "location": "London",
-    "seasonDuration": "June-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/8062886002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8062886002"
-    }
-  },
-  {
-    "name": "Linux Engineer",
-    "company": "Jane Street",
     "scrapeDate": "2025-07-10T14:26:30.941Z",
     "uniqueIdentifier": "jane-street-8062907002",
     "location": "New York",
@@ -333,6 +319,20 @@
       "type": "Internship",
       "department": "Technology",
       "positionId": "8062907002"
+    }
+  },
+  {
+    "name": "Linux Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-08-04T18:40:22.691Z",
+    "uniqueIdentifier": "jane-street-8062886002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/8062886002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "8062886002"
     }
   },
   {
@@ -394,15 +394,15 @@
   {
     "name": "Sales and Trading",
     "company": "Jane Street",
-    "scrapeDate": "2025-07-30T18:39:16.737Z",
-    "uniqueIdentifier": "jane-street-7844500002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/7844500002/",
+    "scrapeDate": "2025-08-04T08:38:02.734Z",
+    "uniqueIdentifier": "jane-street-8084942002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/8084942002/",
     "extra": {
       "type": "Internship",
       "department": "Institutional Sales and Trading",
-      "positionId": "7844500002"
+      "positionId": "8084942002"
     }
   },
   {
@@ -422,15 +422,15 @@
   {
     "name": "Sales and Trading",
     "company": "Jane Street",
-    "scrapeDate": "2025-08-04T08:38:02.734Z",
-    "uniqueIdentifier": "jane-street-8084942002",
-    "location": "London",
-    "seasonDuration": "June-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/8084942002/",
+    "scrapeDate": "2025-07-30T18:39:16.737Z",
+    "uniqueIdentifier": "jane-street-7844500002",
+    "location": "New York",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/7844500002/",
     "extra": {
       "type": "Internship",
       "department": "Institutional Sales and Trading",
-      "positionId": "8084942002"
+      "positionId": "7844500002"
     }
   },
   {
@@ -450,20 +450,6 @@
   {
     "name": "Strategy and Product",
     "company": "Jane Street",
-    "scrapeDate": "2025-08-04T08:38:02.734Z",
-    "uniqueIdentifier": "jane-street-7971212002",
-    "location": "London",
-    "seasonDuration": "June-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/7971212002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Strategy and Product",
-      "positionId": "7971212002"
-    }
-  },
-  {
-    "name": "Strategy and Product",
-    "company": "Jane Street",
     "scrapeDate": "2025-07-10T14:26:30.941Z",
     "uniqueIdentifier": "jane-street-7828490002",
     "location": "New York",
@@ -473,6 +459,20 @@
       "type": "Internship",
       "department": "Strategy and Product",
       "positionId": "7828490002"
+    }
+  },
+  {
+    "name": "Strategy and Product",
+    "company": "Jane Street",
+    "scrapeDate": "2025-08-04T08:38:02.734Z",
+    "uniqueIdentifier": "jane-street-7971212002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/7971212002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Strategy and Product",
+      "positionId": "7971212002"
     }
   },
   {
@@ -506,6 +506,20 @@
   {
     "name": "Trading Desk Operations Engineer",
     "company": "Jane Street",
+    "scrapeDate": "2025-07-10T17:25:07.843Z",
+    "uniqueIdentifier": "jane-street-8070509002",
+    "location": "New York",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/8070509002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "8070509002"
+    }
+  },
+  {
+    "name": "Trading Desk Operations Engineer",
+    "company": "Jane Street",
     "scrapeDate": "2025-03-11T06:34:22.298Z",
     "uniqueIdentifier": "jane-street-7847966002",
     "location": "Hong Kong",
@@ -529,20 +543,6 @@
       "type": "Internship",
       "department": "Trading, Research, and Machine Learning",
       "positionId": "8075334002"
-    }
-  },
-  {
-    "name": "Trading Desk Operations Engineer",
-    "company": "Jane Street",
-    "scrapeDate": "2025-07-10T17:25:07.843Z",
-    "uniqueIdentifier": "jane-street-8070509002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8070509002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Trading, Research, and Machine Learning",
-      "positionId": "8070509002"
     }
   },
   {
@@ -618,20 +618,6 @@
   {
     "name": "Quantitative Researcher",
     "company": "Jane Street",
-    "scrapeDate": "2025-08-04T09:38:34.503Z",
-    "uniqueIdentifier": "jane-street-8017833002",
-    "location": "London",
-    "seasonDuration": "June-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/8017833002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Trading, Research, and Machine Learning",
-      "positionId": "8017833002"
-    }
-  },
-  {
-    "name": "Quantitative Researcher",
-    "company": "Jane Street",
     "scrapeDate": "2025-07-31T11:24:00.902Z",
     "uniqueIdentifier": "jane-street-8095356002",
     "location": "Hong Kong",
@@ -641,6 +627,20 @@
       "type": "Internship",
       "department": "Trading, Research, and Machine Learning",
       "positionId": "8095356002"
+    }
+  },
+  {
+    "name": "Quantitative Researcher",
+    "company": "Jane Street",
+    "scrapeDate": "2025-08-04T09:38:34.503Z",
+    "uniqueIdentifier": "jane-street-8017833002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/8017833002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "8017833002"
     }
   },
   {
@@ -702,6 +702,20 @@
   {
     "name": "Software Engineer",
     "company": "Jane Street",
+    "scrapeDate": "2025-07-10T14:26:30.941Z",
+    "uniqueIdentifier": "jane-street-8040547002",
+    "location": "New York",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/8040547002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "8040547002"
+    }
+  },
+  {
+    "name": "Software Engineer",
+    "company": "Jane Street",
     "scrapeDate": "2025-08-04T13:49:02.478Z",
     "uniqueIdentifier": "jane-street-7961782002",
     "location": "London",
@@ -728,20 +742,6 @@
     }
   },
   {
-    "name": "Software Engineer",
-    "company": "Jane Street",
-    "scrapeDate": "2025-07-10T14:26:30.941Z",
-    "uniqueIdentifier": "jane-street-8040547002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8040547002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8040547002"
-    }
-  },
-  {
     "name": "Cybersecurity Analyst",
     "company": "Jane Street",
     "scrapeDate": "2025-07-14T17:24:56.349Z",
@@ -758,20 +758,6 @@
   {
     "name": "FPGA Engineer",
     "company": "Jane Street",
-    "scrapeDate": "2025-07-10T14:26:30.941Z",
-    "uniqueIdentifier": "jane-street-8062455002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8062455002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8062455002"
-    }
-  },
-  {
-    "name": "FPGA Engineer",
-    "company": "Jane Street",
     "scrapeDate": "2025-08-04T18:40:22.691Z",
     "uniqueIdentifier": "jane-street-8062422002",
     "location": "London",
@@ -781,6 +767,20 @@
       "type": "Internship",
       "department": "Technology",
       "positionId": "8062422002"
+    }
+  },
+  {
+    "name": "FPGA Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-07-10T14:26:30.941Z",
+    "uniqueIdentifier": "jane-street-8062455002",
+    "location": "New York",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/8062455002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "8062455002"
     }
   },
   {
@@ -800,15 +800,15 @@
   {
     "name": "IT Operations Engineer",
     "company": "Jane Street",
-    "scrapeDate": "2025-08-18T04:03:42.647Z",
-    "uniqueIdentifier": "jane-street-8104282002",
-    "location": "Hong Kong",
+    "scrapeDate": "2025-08-04T17:28:58.248Z",
+    "uniqueIdentifier": "jane-street-8065684002",
+    "location": "New York",
     "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8104282002/",
+    "url": "https://www.janestreet.com/join-jane-street/position/8065684002/",
     "extra": {
       "type": "Internship",
       "department": "Technology",
-      "positionId": "8104282002"
+      "positionId": "8065684002"
     }
   },
   {
@@ -828,6 +828,20 @@
   {
     "name": "IT Operations Engineer",
     "company": "Jane Street",
+    "scrapeDate": "2025-08-18T04:03:42.647Z",
+    "uniqueIdentifier": "jane-street-8104282002",
+    "location": "Hong Kong",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/8104282002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "8104282002"
+    }
+  },
+  {
+    "name": "IT Operations Engineer",
+    "company": "Jane Street",
     "scrapeDate": "2025-03-11T06:34:22.298Z",
     "uniqueIdentifier": "jane-street-7856267002",
     "location": "Hong Kong",
@@ -837,20 +851,6 @@
       "type": "Internship",
       "department": "Technology",
       "positionId": "7856267002"
-    }
-  },
-  {
-    "name": "IT Operations Engineer",
-    "company": "Jane Street",
-    "scrapeDate": "2025-08-04T17:28:58.248Z",
-    "uniqueIdentifier": "jane-street-8065684002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8065684002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8065684002"
     }
   },
   {
@@ -870,20 +870,6 @@
   {
     "name": "Linux Engineer",
     "company": "Jane Street",
-    "scrapeDate": "2025-08-04T18:40:22.691Z",
-    "uniqueIdentifier": "jane-street-8062886002",
-    "location": "London",
-    "seasonDuration": "June-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/8062886002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8062886002"
-    }
-  },
-  {
-    "name": "Linux Engineer",
-    "company": "Jane Street",
     "scrapeDate": "2025-07-10T14:26:30.941Z",
     "uniqueIdentifier": "jane-street-8062907002",
     "location": "New York",
@@ -893,6 +879,20 @@
       "type": "Internship",
       "department": "Technology",
       "positionId": "8062907002"
+    }
+  },
+  {
+    "name": "Linux Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-08-04T18:40:22.691Z",
+    "uniqueIdentifier": "jane-street-8062886002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/8062886002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "8062886002"
     }
   },
   {
@@ -954,15 +954,15 @@
   {
     "name": "Sales and Trading",
     "company": "Jane Street",
-    "scrapeDate": "2025-07-30T18:39:16.737Z",
-    "uniqueIdentifier": "jane-street-7844500002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/7844500002/",
+    "scrapeDate": "2025-08-04T08:38:02.734Z",
+    "uniqueIdentifier": "jane-street-8084942002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/8084942002/",
     "extra": {
       "type": "Internship",
       "department": "Institutional Sales and Trading",
-      "positionId": "7844500002"
+      "positionId": "8084942002"
     }
   },
   {
@@ -982,15 +982,15 @@
   {
     "name": "Sales and Trading",
     "company": "Jane Street",
-    "scrapeDate": "2025-08-04T08:38:02.734Z",
-    "uniqueIdentifier": "jane-street-8084942002",
-    "location": "London",
-    "seasonDuration": "June-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/8084942002/",
+    "scrapeDate": "2025-07-30T18:39:16.737Z",
+    "uniqueIdentifier": "jane-street-7844500002",
+    "location": "New York",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/7844500002/",
     "extra": {
       "type": "Internship",
       "department": "Institutional Sales and Trading",
-      "positionId": "8084942002"
+      "positionId": "7844500002"
     }
   },
   {
@@ -1010,20 +1010,6 @@
   {
     "name": "Strategy and Product",
     "company": "Jane Street",
-    "scrapeDate": "2025-08-04T08:38:02.734Z",
-    "uniqueIdentifier": "jane-street-7971212002",
-    "location": "London",
-    "seasonDuration": "June-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/7971212002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Strategy and Product",
-      "positionId": "7971212002"
-    }
-  },
-  {
-    "name": "Strategy and Product",
-    "company": "Jane Street",
     "scrapeDate": "2025-07-10T14:26:30.941Z",
     "uniqueIdentifier": "jane-street-7828490002",
     "location": "New York",
@@ -1033,6 +1019,20 @@
       "type": "Internship",
       "department": "Strategy and Product",
       "positionId": "7828490002"
+    }
+  },
+  {
+    "name": "Strategy and Product",
+    "company": "Jane Street",
+    "scrapeDate": "2025-08-04T08:38:02.734Z",
+    "uniqueIdentifier": "jane-street-7971212002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/7971212002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Strategy and Product",
+      "positionId": "7971212002"
     }
   },
   {
@@ -1066,6 +1066,20 @@
   {
     "name": "Trading Desk Operations Engineer",
     "company": "Jane Street",
+    "scrapeDate": "2025-07-10T17:25:07.843Z",
+    "uniqueIdentifier": "jane-street-8070509002",
+    "location": "New York",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/8070509002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "8070509002"
+    }
+  },
+  {
+    "name": "Trading Desk Operations Engineer",
+    "company": "Jane Street",
     "scrapeDate": "2025-03-11T06:34:22.298Z",
     "uniqueIdentifier": "jane-street-7847966002",
     "location": "Hong Kong",
@@ -1092,20 +1106,6 @@
     }
   },
   {
-    "name": "Trading Desk Operations Engineer",
-    "company": "Jane Street",
-    "scrapeDate": "2025-07-10T17:25:07.843Z",
-    "uniqueIdentifier": "jane-street-8070509002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8070509002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Trading, Research, and Machine Learning",
-      "positionId": "8070509002"
-    }
-  },
-  {
     "name": "Windows Engineer",
     "company": "Jane Street",
     "scrapeDate": "2025-08-04T17:28:58.248Z",
@@ -1117,6 +1117,19 @@
       "type": "Internship",
       "department": "Technology",
       "positionId": "8065644002"
+    }
+  },
+  {
+    "name": "Software Engineer – University Graduate (Europe)",
+    "company": "Citadel",
+    "scrapeDate": "2025-08-18T13:40:18.020Z",
+    "uniqueIdentifier": "citadel-software-engineer-university-graduate-europe-2",
+    "location": "London",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe-2/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "software-engineer-university-graduate-europe-2"
     }
   },
   {
@@ -1234,19 +1247,6 @@
     "extra": {
       "type": "Internship",
       "positionId": "quantitative-researcher-phd-graduate-europe"
-    }
-  },
-  {
-    "name": "Quantitative Research Analyst  – University Graduate (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-08-02T13:34:39.065Z",
-    "uniqueIdentifier": "citadel-quantitative-research-analyst-university-graduate-us",
-    "location": "Miami, New York",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-research-analyst-university-graduate-us"
     }
   }
 ]
