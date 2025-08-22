@@ -58,20 +58,6 @@
   {
     "name": "Quantitative Researcher",
     "company": "Jane Street",
-    "scrapeDate": "2025-07-10T14:26:30.941Z",
-    "uniqueIdentifier": "jane-street-7979031002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/7979031002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Trading, Research, and Machine Learning",
-      "positionId": "7979031002"
-    }
-  },
-  {
-    "name": "Quantitative Researcher",
-    "company": "Jane Street",
     "scrapeDate": "2025-08-04T09:38:34.503Z",
     "uniqueIdentifier": "jane-street-8017833002",
     "location": "London",
@@ -81,6 +67,20 @@
       "type": "Internship",
       "department": "Trading, Research, and Machine Learning",
       "positionId": "8017833002"
+    }
+  },
+  {
+    "name": "Quantitative Researcher",
+    "company": "Jane Street",
+    "scrapeDate": "2025-07-10T14:26:30.941Z",
+    "uniqueIdentifier": "jane-street-7979031002",
+    "location": "New York",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/7979031002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7979031002"
     }
   },
   {
@@ -352,20 +352,6 @@
   {
     "name": "Procurement Specialist",
     "company": "Jane Street",
-    "scrapeDate": "2025-08-12T18:38:05.017Z",
-    "uniqueIdentifier": "jane-street-8069333002",
-    "location": "London",
-    "seasonDuration": "June-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/8069333002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8069333002"
-    }
-  },
-  {
-    "name": "Procurement Specialist",
-    "company": "Jane Street",
     "scrapeDate": "2025-08-04T17:28:58.248Z",
     "uniqueIdentifier": "jane-street-8067459002",
     "location": "New York",
@@ -375,6 +361,20 @@
       "type": "Internship",
       "department": "Technology",
       "positionId": "8067459002"
+    }
+  },
+  {
+    "name": "Procurement Specialist",
+    "company": "Jane Street",
+    "scrapeDate": "2025-08-12T18:38:05.017Z",
+    "uniqueIdentifier": "jane-street-8069333002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/8069333002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "8069333002"
     }
   },
   {
@@ -604,20 +604,6 @@
   {
     "name": "Quantitative Researcher",
     "company": "Jane Street",
-    "scrapeDate": "2025-07-10T14:26:30.941Z",
-    "uniqueIdentifier": "jane-street-7979031002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/7979031002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Trading, Research, and Machine Learning",
-      "positionId": "7979031002"
-    }
-  },
-  {
-    "name": "Quantitative Researcher",
-    "company": "Jane Street",
     "scrapeDate": "2025-08-04T09:38:34.503Z",
     "uniqueIdentifier": "jane-street-8017833002",
     "location": "London",
@@ -627,6 +613,20 @@
       "type": "Internship",
       "department": "Trading, Research, and Machine Learning",
       "positionId": "8017833002"
+    }
+  },
+  {
+    "name": "Quantitative Researcher",
+    "company": "Jane Street",
+    "scrapeDate": "2025-07-10T14:26:30.941Z",
+    "uniqueIdentifier": "jane-street-7979031002",
+    "location": "New York",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/7979031002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7979031002"
     }
   },
   {
@@ -898,20 +898,6 @@
   {
     "name": "Procurement Specialist",
     "company": "Jane Street",
-    "scrapeDate": "2025-08-12T18:38:05.017Z",
-    "uniqueIdentifier": "jane-street-8069333002",
-    "location": "London",
-    "seasonDuration": "June-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/8069333002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8069333002"
-    }
-  },
-  {
-    "name": "Procurement Specialist",
-    "company": "Jane Street",
     "scrapeDate": "2025-08-04T17:28:58.248Z",
     "uniqueIdentifier": "jane-street-8067459002",
     "location": "New York",
@@ -921,6 +907,20 @@
       "type": "Internship",
       "department": "Technology",
       "positionId": "8067459002"
+    }
+  },
+  {
+    "name": "Procurement Specialist",
+    "company": "Jane Street",
+    "scrapeDate": "2025-08-12T18:38:05.017Z",
+    "uniqueIdentifier": "jane-street-8069333002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/8069333002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "8069333002"
     }
   },
   {
