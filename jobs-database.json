@@ -1067,13 +1067,13 @@
     "name": "Software Engineer – University Graduate (Europe)",
     "company": "Citadel",
     "scrapeDate": "2025-09-07T08:27:49.849Z",
-    "uniqueIdentifier": "citadel-software-engineer-university-graduate-europe-2",
+    "uniqueIdentifier": "citadel-software-engineer-university-graduate-europe",
     "location": "London",
     "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe-2/",
+    "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe/",
     "extra": {
       "type": "Internship",
-      "positionId": "software-engineer-university-graduate-europe-2"
+      "positionId": "software-engineer-university-graduate-europe"
     }
   },
   {
@@ -1171,13 +1171,13 @@
     "name": "Software Engineer – University Graduate (Europe)",
     "company": "Citadel",
     "scrapeDate": "2025-09-07T08:27:49.849Z",
-    "uniqueIdentifier": "citadel-software-engineer-university-graduate-europe",
+    "uniqueIdentifier": "citadel-software-engineer-university-graduate-europe-2",
     "location": "London",
     "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe/",
+    "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe-2/",
     "extra": {
       "type": "Internship",
-      "positionId": "software-engineer-university-graduate-europe"
+      "positionId": "software-engineer-university-graduate-europe-2"
     }
   },
   {
