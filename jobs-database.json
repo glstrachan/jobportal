@@ -142,20 +142,6 @@
   {
     "name": "Software Engineer",
     "company": "Jane Street",
-    "scrapeDate": "2025-08-04T13:49:02.478Z",
-    "uniqueIdentifier": "jane-street-7961782002",
-    "location": "London",
-    "seasonDuration": "June-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/7961782002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "7961782002"
-    }
-  },
-  {
-    "name": "Software Engineer",
-    "company": "Jane Street",
     "scrapeDate": "2025-07-08T14:24:35.230Z",
     "uniqueIdentifier": "jane-street-8003273002",
     "location": "Hong Kong",
@@ -165,6 +151,20 @@
       "type": "Internship",
       "department": "Technology",
       "positionId": "8003273002"
+    }
+  },
+  {
+    "name": "Software Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-08-04T13:49:02.478Z",
+    "uniqueIdentifier": "jane-street-7961782002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/7961782002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "7961782002"
     }
   },
   {
@@ -366,6 +366,20 @@
   {
     "name": "Sales and Trading",
     "company": "Jane Street",
+    "scrapeDate": "2025-08-04T08:38:02.734Z",
+    "uniqueIdentifier": "jane-street-8084942002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/8084942002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Institutional Sales and Trading",
+      "positionId": "8084942002"
+    }
+  },
+  {
+    "name": "Sales and Trading",
+    "company": "Jane Street",
     "scrapeDate": "2025-07-30T18:39:16.737Z",
     "uniqueIdentifier": "jane-street-7844500002",
     "location": "New York",
@@ -392,17 +406,17 @@
     }
   },
   {
-    "name": "Sales and Trading",
+    "name": "Software Engineer, Autumn Off Cycle",
     "company": "Jane Street",
-    "scrapeDate": "2025-08-04T08:38:02.734Z",
-    "uniqueIdentifier": "jane-street-8084942002",
+    "scrapeDate": "2025-09-29T17:21:42.663Z",
+    "uniqueIdentifier": "jane-street-8189520002",
     "location": "London",
-    "seasonDuration": "June-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/8084942002/",
+    "seasonDuration": "August-October",
+    "url": "https://www.janestreet.com/join-jane-street/position/8189520002/",
     "extra": {
       "type": "Internship",
-      "department": "Institutional Sales and Trading",
-      "positionId": "8084942002"
+      "department": "Technology",
+      "positionId": "8189520002"
     }
   },
   {
@@ -660,20 +674,6 @@
   {
     "name": "Software Engineer",
     "company": "Jane Street",
-    "scrapeDate": "2025-08-04T13:49:02.478Z",
-    "uniqueIdentifier": "jane-street-7961782002",
-    "location": "London",
-    "seasonDuration": "June-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/7961782002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "7961782002"
-    }
-  },
-  {
-    "name": "Software Engineer",
-    "company": "Jane Street",
     "scrapeDate": "2025-07-08T14:24:35.230Z",
     "uniqueIdentifier": "jane-street-8003273002",
     "location": "Hong Kong",
@@ -683,6 +683,20 @@
       "type": "Internship",
       "department": "Technology",
       "positionId": "8003273002"
+    }
+  },
+  {
+    "name": "Software Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-08-04T13:49:02.478Z",
+    "uniqueIdentifier": "jane-street-7961782002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/7961782002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "7961782002"
     }
   },
   {
@@ -884,6 +898,20 @@
   {
     "name": "Sales and Trading",
     "company": "Jane Street",
+    "scrapeDate": "2025-08-04T08:38:02.734Z",
+    "uniqueIdentifier": "jane-street-8084942002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/8084942002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Institutional Sales and Trading",
+      "positionId": "8084942002"
+    }
+  },
+  {
+    "name": "Sales and Trading",
+    "company": "Jane Street",
     "scrapeDate": "2025-07-30T18:39:16.737Z",
     "uniqueIdentifier": "jane-street-7844500002",
     "location": "New York",
@@ -910,17 +938,17 @@
     }
   },
   {
-    "name": "Sales and Trading",
+    "name": "Software Engineer, Autumn Off Cycle",
     "company": "Jane Street",
-    "scrapeDate": "2025-08-04T08:38:02.734Z",
-    "uniqueIdentifier": "jane-street-8084942002",
+    "scrapeDate": "2025-09-29T17:21:42.663Z",
+    "uniqueIdentifier": "jane-street-8189520002",
     "location": "London",
-    "seasonDuration": "June-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/8084942002/",
+    "seasonDuration": "August-October",
+    "url": "https://www.janestreet.com/join-jane-street/position/8189520002/",
     "extra": {
       "type": "Internship",
-      "department": "Institutional Sales and Trading",
-      "positionId": "8084942002"
+      "department": "Technology",
+      "positionId": "8189520002"
     }
   },
   {
