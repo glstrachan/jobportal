@@ -1064,107 +1064,42 @@
     }
   },
   {
-    "name": "International Equities – Intern (Asia)",
+    "name": "Software Engineer – Intern (Asia)",
     "company": "Citadel",
-    "scrapeDate": "2025-10-13T03:14:37.563Z",
-    "uniqueIdentifier": "citadel-international-equities-intern-asia",
-    "location": "Hong Kong, Singapore",
+    "scrapeDate": "2025-10-13T04:29:21.728Z",
+    "uniqueIdentifier": "citadel-software-engineer-intern-asia",
+    "location": "Singapore",
     "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/international-equities-intern-asia/",
+    "url": "https://www.citadel.com/careers/details/software-engineer-intern-asia/",
     "extra": {
       "type": "Internship",
-      "positionId": "international-equities-intern-asia"
+      "positionId": "software-engineer-intern-asia"
     }
   },
   {
-    "name": "Investment & Trading – Intern (Europe)",
+    "name": "Software Engineer – Intern (US)",
     "company": "Citadel",
-    "scrapeDate": "2025-10-13T03:14:37.563Z",
-    "uniqueIdentifier": "citadel-investment-trading-intern-europe",
-    "location": "London, Paris",
+    "scrapeDate": "2025-10-13T04:29:21.728Z",
+    "uniqueIdentifier": "citadel-software-engineer-intern-us",
+    "location": "Chicago, Miami, New York",
     "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/investment-trading-intern-europe/",
+    "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
     "extra": {
       "type": "Internship",
-      "positionId": "investment-trading-intern-europe"
+      "positionId": "software-engineer-intern-us"
     }
   },
   {
-    "name": "International Equities Associate – Intern (Europe)",
-    "company": "Citadel",
-    "scrapeDate": "2025-10-13T03:14:37.563Z",
-    "uniqueIdentifier": "citadel-international-equities-associate-intern-europe",
-    "location": "London",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/international-equities-associate-intern-europe/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "international-equities-associate-intern-europe"
-    }
-  },
-  {
-    "name": "Human Resources – Intern (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-10-13T03:14:37.563Z",
-    "uniqueIdentifier": "citadel-human-resources-intern-us",
-    "location": "New York",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/human-resources-intern-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "human-resources-intern-us"
-    }
-  },
-  {
-    "name": "Equities – Citadel Associate Program – Full Time Program 2026 (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-10-13T03:14:37.563Z",
-    "uniqueIdentifier": "citadel-equities-citadel-associate-program-full-time-program-2026-us",
-    "location": "New York",
-    "seasonDuration": "2026",
-    "url": "https://www.citadel.com/careers/details/equities-citadel-associate-program-full-time-program-2026-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "equities-citadel-associate-program-full-time-program-2026-us"
-    }
-  },
-  {
-    "name": "Finance & Accounting – Intern (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-10-13T03:14:37.563Z",
-    "uniqueIdentifier": "citadel-finance-accounting-intern-us",
-    "location": "New York",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/finance-accounting-intern-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "finance-accounting-intern-us"
-    }
-  },
-  {
-    "name": "Software Engineer – University Graduate (Europe)",
+    "name": "Software Engineer – University Graduate (Asia)",
     "company": "Citadel",
     "scrapeDate": "2025-10-01T18:34:20.458Z",
-    "uniqueIdentifier": "citadel-software-engineer-university-graduate-europe-2",
-    "location": "London",
+    "uniqueIdentifier": "citadel-software-engineer-university-graduate-asia",
+    "location": "Singapore",
     "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe-2/",
+    "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-asia/",
     "extra": {
       "type": "Internship",
-      "positionId": "software-engineer-university-graduate-europe-2"
-    }
-  },
-  {
-    "name": "Software Engineer – University Graduate (Europe)",
-    "company": "Citadel",
-    "scrapeDate": "2025-10-01T18:34:20.458Z",
-    "uniqueIdentifier": "citadel-software-engineer-university-graduate-europe",
-    "location": "London",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "software-engineer-university-graduate-europe"
+      "positionId": "software-engineer-university-graduate-asia"
     }
   },
   {
@@ -1181,16 +1116,81 @@
     }
   },
   {
-    "name": "Software Engineer – University Graduate (Asia)",
+    "name": "Software Engineer – University Graduate (Europe)",
     "company": "Citadel",
     "scrapeDate": "2025-10-01T18:34:20.458Z",
-    "uniqueIdentifier": "citadel-software-engineer-university-graduate-asia",
-    "location": "Singapore",
+    "uniqueIdentifier": "citadel-software-engineer-university-graduate-europe",
+    "location": "London",
     "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-asia/",
+    "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe/",
     "extra": {
       "type": "Internship",
-      "positionId": "software-engineer-university-graduate-asia"
+      "positionId": "software-engineer-university-graduate-europe"
+    }
+  },
+  {
+    "name": "Software Engineer – University Graduate (Europe)",
+    "company": "Citadel",
+    "scrapeDate": "2025-10-01T18:34:20.458Z",
+    "uniqueIdentifier": "citadel-software-engineer-university-graduate-europe-2",
+    "location": "London",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/software-engineer-university-graduate-europe-2/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "software-engineer-university-graduate-europe-2"
+    }
+  },
+  {
+    "name": "Quantitative Researcher – PhD Graduate (Europe)",
+    "company": "Citadel",
+    "scrapeDate": "2025-10-13T04:29:21.728Z",
+    "uniqueIdentifier": "citadel-quantitative-researcher-phd-graduate-europe",
+    "location": "Dublin, London, Paris, Zurich",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-researcher-phd-graduate-europe"
+    }
+  },
+  {
+    "name": "Quantitative Researcher – PhD Graduate (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-10-13T04:29:21.728Z",
+    "uniqueIdentifier": "citadel-quantitative-researcher-phd-graduate-us",
+    "location": "Miami, New York",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-researcher-phd-graduate-us"
+    }
+  },
+  {
+    "name": "Quantitative Research Analyst  – University Graduate (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-10-13T04:29:21.728Z",
+    "uniqueIdentifier": "citadel-quantitative-research-analyst-university-graduate-us",
+    "location": "Miami, New York",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-research-analyst-university-graduate-us"
+    }
+  },
+  {
+    "name": "Site Reliability Engineer – Intern (Asia)",
+    "company": "Citadel",
+    "scrapeDate": "2025-10-13T04:29:21.728Z",
+    "uniqueIdentifier": "citadel-site-reliability-engineer-intern-asia",
+    "location": "Singapore",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/site-reliability-engineer-intern-asia/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "site-reliability-engineer-intern-asia"
     }
   }
 ]
