@@ -1077,6 +1077,19 @@
     }
   },
   {
+    "name": "Site Reliability Engineer – Intern (Asia)",
+    "company": "Citadel",
+    "scrapeDate": "2025-10-13T04:29:21.728Z",
+    "uniqueIdentifier": "citadel-site-reliability-engineer-intern-asia",
+    "location": "Singapore",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/site-reliability-engineer-intern-asia/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "site-reliability-engineer-intern-asia"
+    }
+  },
+  {
     "name": "Software Engineer – Intern (US)",
     "company": "Citadel",
     "scrapeDate": "2025-10-13T04:29:21.728Z",
@@ -1178,19 +1191,6 @@
     "extra": {
       "type": "Internship",
       "positionId": "quantitative-research-analyst-university-graduate-us"
-    }
-  },
-  {
-    "name": "Site Reliability Engineer – Intern (Asia)",
-    "company": "Citadel",
-    "scrapeDate": "2025-10-13T04:29:21.728Z",
-    "uniqueIdentifier": "citadel-site-reliability-engineer-intern-asia",
-    "location": "Singapore",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/site-reliability-engineer-intern-asia/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "site-reliability-engineer-intern-asia"
     }
   }
 ]
