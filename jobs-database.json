@@ -1062,19 +1062,6 @@
     }
   },
   {
-    "name": "Software Engineer – Intern (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-10-13T04:29:21.728Z",
-    "uniqueIdentifier": "citadel-software-engineer-intern-us",
-    "location": "Chicago, Miami, New York",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "software-engineer-intern-us"
-    }
-  },
-  {
     "name": "Software Engineer – Intern (Asia)",
     "company": "Citadel",
     "scrapeDate": "2025-10-30T21:22:51.423Z",
@@ -1085,6 +1072,19 @@
     "extra": {
       "type": "Internship",
       "positionId": "software-engineer-intern-asia"
+    }
+  },
+  {
+    "name": "Software Engineer – Intern (US)",
+    "company": "Citadel",
+    "scrapeDate": "2025-10-13T04:29:21.728Z",
+    "uniqueIdentifier": "citadel-software-engineer-intern-us",
+    "location": "Chicago, Miami, New York",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "software-engineer-intern-us"
     }
   },
   {
