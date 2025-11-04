@@ -240,20 +240,6 @@
   {
     "name": "IT Operations Engineer",
     "company": "Jane Street",
-    "scrapeDate": "2025-08-04T17:28:58.248Z",
-    "uniqueIdentifier": "jane-street-8065684002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8065684002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8065684002"
-    }
-  },
-  {
-    "name": "IT Operations Engineer",
-    "company": "Jane Street",
     "scrapeDate": "2025-08-18T04:03:42.647Z",
     "uniqueIdentifier": "jane-street-8104282002",
     "location": "Hong Kong",
@@ -280,6 +266,20 @@
     }
   },
   {
+    "name": "IT Operations Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-08-04T17:28:58.248Z",
+    "uniqueIdentifier": "jane-street-8065684002",
+    "location": "New York",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/8065684002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "8065684002"
+    }
+  },
+  {
     "name": "Linux Engineer",
     "company": "Jane Street",
     "scrapeDate": "2025-08-13T10:28:30.648Z",
@@ -291,20 +291,6 @@
       "type": "Internship",
       "department": "Technology",
       "positionId": "8104260002"
-    }
-  },
-  {
-    "name": "Linux Engineer",
-    "company": "Jane Street",
-    "scrapeDate": "2025-08-04T18:40:22.691Z",
-    "uniqueIdentifier": "jane-street-8062886002",
-    "location": "London",
-    "seasonDuration": "June-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/8062886002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8062886002"
     }
   },
   {
@@ -322,6 +308,20 @@
     }
   },
   {
+    "name": "Linux Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-08-04T18:40:22.691Z",
+    "uniqueIdentifier": "jane-street-8062886002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/8062886002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "8062886002"
+    }
+  },
+  {
     "name": "Network Engineer",
     "company": "Jane Street",
     "scrapeDate": "2025-07-10T14:26:30.941Z",
@@ -333,20 +333,6 @@
       "type": "Internship",
       "department": "Technology",
       "positionId": "8065576002"
-    }
-  },
-  {
-    "name": "Procurement Specialist",
-    "company": "Jane Street",
-    "scrapeDate": "2025-08-04T17:28:58.248Z",
-    "uniqueIdentifier": "jane-street-8067459002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8067459002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8067459002"
     }
   },
   {
@@ -758,20 +744,6 @@
   {
     "name": "IT Operations Engineer",
     "company": "Jane Street",
-    "scrapeDate": "2025-08-04T17:28:58.248Z",
-    "uniqueIdentifier": "jane-street-8065684002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8065684002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8065684002"
-    }
-  },
-  {
-    "name": "IT Operations Engineer",
-    "company": "Jane Street",
     "scrapeDate": "2025-08-18T04:03:42.647Z",
     "uniqueIdentifier": "jane-street-8104282002",
     "location": "Hong Kong",
@@ -798,6 +770,20 @@
     }
   },
   {
+    "name": "IT Operations Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-08-04T17:28:58.248Z",
+    "uniqueIdentifier": "jane-street-8065684002",
+    "location": "New York",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/8065684002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "8065684002"
+    }
+  },
+  {
     "name": "Linux Engineer",
     "company": "Jane Street",
     "scrapeDate": "2025-08-13T10:28:30.648Z",
@@ -809,20 +795,6 @@
       "type": "Internship",
       "department": "Technology",
       "positionId": "8104260002"
-    }
-  },
-  {
-    "name": "Linux Engineer",
-    "company": "Jane Street",
-    "scrapeDate": "2025-08-04T18:40:22.691Z",
-    "uniqueIdentifier": "jane-street-8062886002",
-    "location": "London",
-    "seasonDuration": "June-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/8062886002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8062886002"
     }
   },
   {
@@ -840,6 +812,20 @@
     }
   },
   {
+    "name": "Linux Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-08-04T18:40:22.691Z",
+    "uniqueIdentifier": "jane-street-8062886002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/8062886002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "8062886002"
+    }
+  },
+  {
     "name": "Network Engineer",
     "company": "Jane Street",
     "scrapeDate": "2025-07-10T14:26:30.941Z",
@@ -851,20 +837,6 @@
       "type": "Internship",
       "department": "Technology",
       "positionId": "8065576002"
-    }
-  },
-  {
-    "name": "Procurement Specialist",
-    "company": "Jane Street",
-    "scrapeDate": "2025-08-04T17:28:58.248Z",
-    "uniqueIdentifier": "jane-street-8067459002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8067459002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8067459002"
     }
   },
   {
