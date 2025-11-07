@@ -1034,19 +1034,6 @@
     }
   },
   {
-    "name": "Software Engineer – Intern (Asia)",
-    "company": "Citadel",
-    "scrapeDate": "2025-10-30T21:22:51.423Z",
-    "uniqueIdentifier": "citadel-software-engineer-intern-asia",
-    "location": "Singapore",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/software-engineer-intern-asia/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "software-engineer-intern-asia"
-    }
-  },
-  {
     "name": "Software Engineer – Intern (US)",
     "company": "Citadel",
     "scrapeDate": "2025-10-13T04:29:21.728Z",
@@ -1086,19 +1073,6 @@
     }
   },
   {
-    "name": "Quantitative Research Analyst Intern – BS/MS (US)",
-    "company": "Citadel",
-    "scrapeDate": "2025-10-30T21:22:51.423Z",
-    "uniqueIdentifier": "citadel-quantitative-research-analyst-intern-bs-ms-us",
-    "location": "Greenwich, Miami, New York",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-research-analyst-intern-bs-ms-us"
-    }
-  },
-  {
     "name": "Quantitative Researcher – PhD Intern (Asia)",
     "company": "Citadel",
     "scrapeDate": "2025-10-27T20:25:58.870Z",
@@ -1135,6 +1109,32 @@
     "extra": {
       "type": "Internship",
       "positionId": "quantitative-research-analyst-university-graduate-europe"
+    }
+  },
+  {
+    "name": "Quantitative Research Analyst  – University Graduate (Asia)",
+    "company": "Citadel",
+    "scrapeDate": "2025-11-07T03:15:27.021Z",
+    "uniqueIdentifier": "citadel-quantitative-research-analyst-university-graduate-asia",
+    "location": "Hong Kong, Singapore",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-asia/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-research-analyst-university-graduate-asia"
+    }
+  },
+  {
+    "name": "Quantitative Researcher – PhD Intern (Europe)",
+    "company": "Citadel",
+    "scrapeDate": "2025-11-07T03:15:27.021Z",
+    "uniqueIdentifier": "citadel-quantitative-researcher-phd-intern-europe",
+    "location": "London, Paris, Zurich",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-europe/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-researcher-phd-intern-europe"
     }
   }
 ]
