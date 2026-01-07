@@ -350,20 +350,6 @@
     }
   },
   {
-    "name": "Software Engineer, Autumn Off Cycle",
-    "company": "Jane Street",
-    "scrapeDate": "2025-12-09T12:56:19.582Z",
-    "uniqueIdentifier": "jane-street-8189520002",
-    "location": "London",
-    "seasonDuration": "August-October",
-    "url": "https://www.janestreet.com/join-jane-street/position/8189520002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8189520002"
-    }
-  },
-  {
     "name": "Strategy and Product",
     "company": "Jane Street",
     "scrapeDate": "2025-12-09T12:56:19.582Z",
@@ -423,20 +409,6 @@
     "name": "Trading Desk Operations Engineer",
     "company": "Jane Street",
     "scrapeDate": "2025-12-09T12:56:19.582Z",
-    "uniqueIdentifier": "jane-street-8075334002",
-    "location": "Hong Kong",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8075334002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Trading, Research, and Machine Learning",
-      "positionId": "8075334002"
-    }
-  },
-  {
-    "name": "Trading Desk Operations Engineer",
-    "company": "Jane Street",
-    "scrapeDate": "2025-12-09T12:56:19.582Z",
     "uniqueIdentifier": "jane-street-8070509002",
     "location": "New York",
     "seasonDuration": "May-August",
@@ -445,6 +417,20 @@
       "type": "Internship",
       "department": "Trading, Research, and Machine Learning",
       "positionId": "8070509002"
+    }
+  },
+  {
+    "name": "Trading Desk Operations Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-12-09T12:56:19.582Z",
+    "uniqueIdentifier": "jane-street-8075334002",
+    "location": "Hong Kong",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/8075334002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "8075334002"
     }
   },
   {
@@ -812,20 +798,6 @@
     }
   },
   {
-    "name": "Software Engineer, Autumn Off Cycle",
-    "company": "Jane Street",
-    "scrapeDate": "2025-12-09T12:56:19.582Z",
-    "uniqueIdentifier": "jane-street-8189520002",
-    "location": "London",
-    "seasonDuration": "August-October",
-    "url": "https://www.janestreet.com/join-jane-street/position/8189520002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8189520002"
-    }
-  },
-  {
     "name": "Strategy and Product",
     "company": "Jane Street",
     "scrapeDate": "2025-12-09T12:56:19.582Z",
@@ -885,20 +857,6 @@
     "name": "Trading Desk Operations Engineer",
     "company": "Jane Street",
     "scrapeDate": "2025-12-09T12:56:19.582Z",
-    "uniqueIdentifier": "jane-street-8075334002",
-    "location": "Hong Kong",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8075334002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Trading, Research, and Machine Learning",
-      "positionId": "8075334002"
-    }
-  },
-  {
-    "name": "Trading Desk Operations Engineer",
-    "company": "Jane Street",
-    "scrapeDate": "2025-12-09T12:56:19.582Z",
     "uniqueIdentifier": "jane-street-8070509002",
     "location": "New York",
     "seasonDuration": "May-August",
@@ -907,6 +865,20 @@
       "type": "Internship",
       "department": "Trading, Research, and Machine Learning",
       "positionId": "8070509002"
+    }
+  },
+  {
+    "name": "Trading Desk Operations Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-12-09T12:56:19.582Z",
+    "uniqueIdentifier": "jane-street-8075334002",
+    "location": "Hong Kong",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/8075334002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "8075334002"
     }
   },
   {
