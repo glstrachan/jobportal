@@ -812,32 +812,6 @@
     }
   },
   {
-    "name": "Equities- Citadel Associate Program- Summer Internship 2027",
-    "company": "Citadel",
-    "scrapeDate": "2026-01-12T04:14:29.035Z",
-    "uniqueIdentifier": "citadel-equities-citadel-associate-program-summer-internship-2027",
-    "location": "New York",
-    "seasonDuration": "2027",
-    "url": "https://www.citadel.com/careers/details/equities-citadel-associate-program-summer-internship-2027/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "equities-citadel-associate-program-summer-internship-2027"
-    }
-  },
-  {
-    "name": "Software Engineer – Intern (US)",
-    "company": "Citadel",
-    "scrapeDate": "2026-01-08T20:32:18.971Z",
-    "uniqueIdentifier": "citadel-software-engineer-intern-us",
-    "location": "Chicago, Miami, New York",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "software-engineer-intern-us"
-    }
-  },
-  {
     "name": "Software Engineer – Intern (Europe)",
     "company": "Citadel",
     "scrapeDate": "2026-01-01T14:26:17.815Z",
@@ -851,29 +825,16 @@
     }
   },
   {
-    "name": "Software Engineer – Intern (Asia)",
+    "name": "Software Engineer – Intern (US)",
     "company": "Citadel",
-    "scrapeDate": "2026-01-12T04:14:29.035Z",
-    "uniqueIdentifier": "citadel-software-engineer-intern-asia",
-    "location": "Singapore",
+    "scrapeDate": "2026-01-08T20:32:18.971Z",
+    "uniqueIdentifier": "citadel-software-engineer-intern-us",
+    "location": "Chicago, Miami, New York",
     "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/software-engineer-intern-asia/",
+    "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
     "extra": {
       "type": "Internship",
-      "positionId": "software-engineer-intern-asia"
-    }
-  },
-  {
-    "name": "Quantitative Researcher – PhD Graduate (Asia)",
-    "company": "Citadel",
-    "scrapeDate": "2026-01-08T21:28:40.769Z",
-    "uniqueIdentifier": "citadel-quantitative-researcher-phd-graduate-asia",
-    "location": "Hong Kong, Singapore",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-asia/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-researcher-phd-graduate-asia"
+      "positionId": "software-engineer-intern-us"
     }
   },
   {
@@ -916,16 +877,16 @@
     }
   },
   {
-    "name": "Quantitative Researcher – PhD Intern (Asia)",
+    "name": "Quantitative Researcher – PhD Graduate (Asia)",
     "company": "Citadel",
-    "scrapeDate": "2026-01-12T04:14:29.035Z",
-    "uniqueIdentifier": "citadel-quantitative-researcher-phd-intern-asia",
+    "scrapeDate": "2026-01-08T21:28:40.769Z",
+    "uniqueIdentifier": "citadel-quantitative-researcher-phd-graduate-asia",
     "location": "Hong Kong, Singapore",
     "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-intern-asia/",
+    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-asia/",
     "extra": {
       "type": "Internship",
-      "positionId": "quantitative-researcher-phd-intern-asia"
+      "positionId": "quantitative-researcher-phd-graduate-asia"
     }
   },
   {
@@ -939,6 +900,45 @@
     "extra": {
       "type": "Internship",
       "positionId": "quantitative-researcher-phd-intern-europe"
+    }
+  },
+  {
+    "name": "Quantitative Researcher – PhD Graduate (Europe)",
+    "company": "Citadel",
+    "scrapeDate": "2026-01-12T05:35:32.472Z",
+    "uniqueIdentifier": "citadel-quantitative-researcher-phd-graduate-europe",
+    "location": "Dublin, London, Paris, Zurich",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-researcher-phd-graduate-europe"
+    }
+  },
+  {
+    "name": "Quantitative Research Analyst  – University Graduate (US)",
+    "company": "Citadel",
+    "scrapeDate": "2026-01-12T05:35:32.472Z",
+    "uniqueIdentifier": "citadel-quantitative-research-analyst-university-graduate-us",
+    "location": "Miami, New York",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-research-analyst-university-graduate-us"
+    }
+  },
+  {
+    "name": "Quantitative Researcher – PhD Graduate (US)",
+    "company": "Citadel",
+    "scrapeDate": "2026-01-12T05:35:32.472Z",
+    "uniqueIdentifier": "citadel-quantitative-researcher-phd-graduate-us",
+    "location": "Miami, New York",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-researcher-phd-graduate-us"
     }
   }
 ]
