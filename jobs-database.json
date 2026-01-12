@@ -101,6 +101,20 @@
     "name": "Machine Learning Researcher",
     "company": "Jane Street",
     "scrapeDate": "2025-12-09T12:56:19.582Z",
+    "uniqueIdentifier": "jane-street-8061093002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/8061093002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "8061093002"
+    }
+  },
+  {
+    "name": "Machine Learning Researcher",
+    "company": "Jane Street",
+    "scrapeDate": "2025-12-09T12:56:19.582Z",
     "uniqueIdentifier": "jane-street-8061523002",
     "location": "Hong Kong",
     "seasonDuration": "May-August",
@@ -123,20 +137,6 @@
       "type": "Internship",
       "department": "Trading, Research, and Machine Learning",
       "positionId": "8060848002"
-    }
-  },
-  {
-    "name": "Machine Learning Researcher",
-    "company": "Jane Street",
-    "scrapeDate": "2025-12-09T12:56:19.582Z",
-    "uniqueIdentifier": "jane-street-8061093002",
-    "location": "London",
-    "seasonDuration": "June-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/8061093002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Trading, Research, and Machine Learning",
-      "positionId": "8061093002"
     }
   },
   {
@@ -185,20 +185,6 @@
     "name": "FPGA Engineer",
     "company": "Jane Street",
     "scrapeDate": "2025-12-09T12:56:19.582Z",
-    "uniqueIdentifier": "jane-street-8062455002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8062455002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8062455002"
-    }
-  },
-  {
-    "name": "FPGA Engineer",
-    "company": "Jane Street",
-    "scrapeDate": "2025-12-09T12:56:19.582Z",
     "uniqueIdentifier": "jane-street-8062422002",
     "location": "London",
     "seasonDuration": "June-September",
@@ -210,17 +196,17 @@
     }
   },
   {
-    "name": "IT Operations Engineer",
+    "name": "FPGA Engineer",
     "company": "Jane Street",
     "scrapeDate": "2025-12-09T12:56:19.582Z",
-    "uniqueIdentifier": "jane-street-8065684002",
+    "uniqueIdentifier": "jane-street-8062455002",
     "location": "New York",
     "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8065684002/",
+    "url": "https://www.janestreet.com/join-jane-street/position/8062455002/",
     "extra": {
       "type": "Internship",
       "department": "Technology",
-      "positionId": "8065684002"
+      "positionId": "8062455002"
     }
   },
   {
@@ -235,6 +221,20 @@
       "type": "Internship",
       "department": "Technology",
       "positionId": "8104282002"
+    }
+  },
+  {
+    "name": "IT Operations Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-12-09T12:56:19.582Z",
+    "uniqueIdentifier": "jane-street-8065684002",
+    "location": "New York",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/8065684002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "8065684002"
     }
   },
   {
@@ -255,20 +255,6 @@
     "name": "Linux Engineer",
     "company": "Jane Street",
     "scrapeDate": "2025-12-09T12:56:19.582Z",
-    "uniqueIdentifier": "jane-street-8062886002",
-    "location": "London",
-    "seasonDuration": "June-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/8062886002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8062886002"
-    }
-  },
-  {
-    "name": "Linux Engineer",
-    "company": "Jane Street",
-    "scrapeDate": "2025-12-09T12:56:19.582Z",
     "uniqueIdentifier": "jane-street-8104260002",
     "location": "Hong Kong",
     "seasonDuration": "May-August",
@@ -277,6 +263,20 @@
       "type": "Internship",
       "department": "Technology",
       "positionId": "8104260002"
+    }
+  },
+  {
+    "name": "Linux Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-12-09T12:56:19.582Z",
+    "uniqueIdentifier": "jane-street-8062886002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/8062886002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "8062886002"
     }
   },
   {
@@ -507,6 +507,20 @@
     "name": "Machine Learning Researcher",
     "company": "Jane Street",
     "scrapeDate": "2025-12-09T12:56:19.582Z",
+    "uniqueIdentifier": "jane-street-8061093002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/8061093002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "8061093002"
+    }
+  },
+  {
+    "name": "Machine Learning Researcher",
+    "company": "Jane Street",
+    "scrapeDate": "2025-12-09T12:56:19.582Z",
     "uniqueIdentifier": "jane-street-8061523002",
     "location": "Hong Kong",
     "seasonDuration": "May-August",
@@ -529,20 +543,6 @@
       "type": "Internship",
       "department": "Trading, Research, and Machine Learning",
       "positionId": "8060848002"
-    }
-  },
-  {
-    "name": "Machine Learning Researcher",
-    "company": "Jane Street",
-    "scrapeDate": "2025-12-09T12:56:19.582Z",
-    "uniqueIdentifier": "jane-street-8061093002",
-    "location": "London",
-    "seasonDuration": "June-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/8061093002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Trading, Research, and Machine Learning",
-      "positionId": "8061093002"
     }
   },
   {
@@ -591,20 +591,6 @@
     "name": "FPGA Engineer",
     "company": "Jane Street",
     "scrapeDate": "2025-12-09T12:56:19.582Z",
-    "uniqueIdentifier": "jane-street-8062455002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8062455002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8062455002"
-    }
-  },
-  {
-    "name": "FPGA Engineer",
-    "company": "Jane Street",
-    "scrapeDate": "2025-12-09T12:56:19.582Z",
     "uniqueIdentifier": "jane-street-8062422002",
     "location": "London",
     "seasonDuration": "June-September",
@@ -616,17 +602,17 @@
     }
   },
   {
-    "name": "IT Operations Engineer",
+    "name": "FPGA Engineer",
     "company": "Jane Street",
     "scrapeDate": "2025-12-09T12:56:19.582Z",
-    "uniqueIdentifier": "jane-street-8065684002",
+    "uniqueIdentifier": "jane-street-8062455002",
     "location": "New York",
     "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8065684002/",
+    "url": "https://www.janestreet.com/join-jane-street/position/8062455002/",
     "extra": {
       "type": "Internship",
       "department": "Technology",
-      "positionId": "8065684002"
+      "positionId": "8062455002"
     }
   },
   {
@@ -641,6 +627,20 @@
       "type": "Internship",
       "department": "Technology",
       "positionId": "8104282002"
+    }
+  },
+  {
+    "name": "IT Operations Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-12-09T12:56:19.582Z",
+    "uniqueIdentifier": "jane-street-8065684002",
+    "location": "New York",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/8065684002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "8065684002"
     }
   },
   {
@@ -661,20 +661,6 @@
     "name": "Linux Engineer",
     "company": "Jane Street",
     "scrapeDate": "2025-12-09T12:56:19.582Z",
-    "uniqueIdentifier": "jane-street-8062886002",
-    "location": "London",
-    "seasonDuration": "June-September",
-    "url": "https://www.janestreet.com/join-jane-street/position/8062886002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8062886002"
-    }
-  },
-  {
-    "name": "Linux Engineer",
-    "company": "Jane Street",
-    "scrapeDate": "2025-12-09T12:56:19.582Z",
     "uniqueIdentifier": "jane-street-8104260002",
     "location": "Hong Kong",
     "seasonDuration": "May-August",
@@ -683,6 +669,20 @@
       "type": "Internship",
       "department": "Technology",
       "positionId": "8104260002"
+    }
+  },
+  {
+    "name": "Linux Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2025-12-09T12:56:19.582Z",
+    "uniqueIdentifier": "jane-street-8062886002",
+    "location": "London",
+    "seasonDuration": "June-September",
+    "url": "https://www.janestreet.com/join-jane-street/position/8062886002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "8062886002"
     }
   },
   {
