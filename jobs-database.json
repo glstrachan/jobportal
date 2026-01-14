@@ -812,19 +812,6 @@
     }
   },
   {
-    "name": "Software Engineer – Intern (Europe)",
-    "company": "Citadel",
-    "scrapeDate": "2026-01-01T14:26:17.815Z",
-    "uniqueIdentifier": "citadel-software-engineer-intern-europe",
-    "location": "London",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/software-engineer-intern-europe/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "software-engineer-intern-europe"
-    }
-  },
-  {
     "name": "Software Engineer – Intern (US)",
     "company": "Citadel",
     "scrapeDate": "2026-01-08T20:32:18.971Z",
@@ -835,19 +822,6 @@
     "extra": {
       "type": "Internship",
       "positionId": "software-engineer-intern-us"
-    }
-  },
-  {
-    "name": "Quantitative Research Analyst  – University Graduate (Europe)",
-    "company": "Citadel",
-    "scrapeDate": "2026-01-01T14:26:17.815Z",
-    "uniqueIdentifier": "citadel-quantitative-research-analyst-university-graduate-europe",
-    "location": "Dublin, London, Paris, Zurich",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-research-analyst-university-graduate-europe"
     }
   },
   {
@@ -864,16 +838,16 @@
     }
   },
   {
-    "name": "Quantitative Research Analyst Intern – BS/MS (Europe)",
+    "name": "Quantitative Research Analyst  – University Graduate (Europe)",
     "company": "Citadel",
-    "scrapeDate": "2026-01-08T21:28:40.769Z",
-    "uniqueIdentifier": "citadel-quantitative-research-analyst-intern-bs-ms-europe",
-    "location": "London, Paris, Zurich",
+    "scrapeDate": "2026-01-01T14:26:17.815Z",
+    "uniqueIdentifier": "citadel-quantitative-research-analyst-university-graduate-europe",
+    "location": "Dublin, London, Paris, Zurich",
     "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-intern-bs-ms-europe/",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/",
     "extra": {
       "type": "Internship",
-      "positionId": "quantitative-research-analyst-intern-bs-ms-europe"
+      "positionId": "quantitative-research-analyst-university-graduate-europe"
     }
   },
   {
@@ -939,6 +913,32 @@
     "extra": {
       "type": "Internship",
       "positionId": "quantitative-researcher-phd-graduate-us"
+    }
+  },
+  {
+    "name": "Software Engineer – Intern (Europe)",
+    "company": "Citadel",
+    "scrapeDate": "2026-01-01T14:26:17.815Z",
+    "uniqueIdentifier": "citadel-software-engineer-intern-europe",
+    "location": "London",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/software-engineer-intern-europe/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "software-engineer-intern-europe"
+    }
+  },
+  {
+    "name": "Software Engineer – Intern (Asia)",
+    "company": "Citadel",
+    "scrapeDate": "2026-01-14T23:24:00.982Z",
+    "uniqueIdentifier": "citadel-software-engineer-intern-asia",
+    "location": "Singapore",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/software-engineer-intern-asia/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "software-engineer-intern-asia"
     }
   }
 ]
