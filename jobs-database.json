@@ -993,6 +993,19 @@
     }
   },
   {
+    "name": "Quantitative Research Engineer – University Graduate (US)",
+    "company": "Citadel",
+    "scrapeDate": "2026-01-20T10:36:08.767Z",
+    "uniqueIdentifier": "citadel-quantitative-research-engineer-university-graduate-us",
+    "location": "New York",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/quantitative-research-engineer-university-graduate-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-research-engineer-university-graduate-us"
+    }
+  },
+  {
     "name": "Quantitative Research Analyst  – University Graduate (Asia)",
     "company": "Citadel",
     "scrapeDate": "2026-01-16T02:08:51.500Z",
@@ -1016,19 +1029,6 @@
     "extra": {
       "type": "Internship",
       "positionId": "quantitative-research-analyst-university-graduate-europe"
-    }
-  },
-  {
-    "name": "Quantitative Researcher – PhD Graduate (Asia)",
-    "company": "Citadel",
-    "scrapeDate": "2026-01-16T02:08:51.500Z",
-    "uniqueIdentifier": "citadel-quantitative-researcher-phd-graduate-asia",
-    "location": "Hong Kong, Singapore",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-asia/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-researcher-phd-graduate-asia"
     }
   },
   {
