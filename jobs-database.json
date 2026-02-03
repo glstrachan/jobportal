@@ -1030,19 +1030,6 @@
     }
   },
   {
-    "name": "Quantitative Research Analyst  – University Graduate (Europe)",
-    "company": "Citadel",
-    "scrapeDate": "2026-01-20T16:42:41.136Z",
-    "uniqueIdentifier": "citadel-quantitative-research-analyst-university-graduate-europe",
-    "location": "Dublin, London, Paris, Zurich",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/quantitative-research-analyst-university-graduate-europe/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-research-analyst-university-graduate-europe"
-    }
-  },
-  {
     "name": "Quantitative Researcher – PhD Graduate (US)",
     "company": "Citadel",
     "scrapeDate": "2026-01-20T16:42:41.136Z",
@@ -1079,6 +1066,19 @@
     "extra": {
       "type": "Internship",
       "positionId": "software-engineer-intern-asia"
+    }
+  },
+  {
+    "name": "Software Engineer – Intern (US)",
+    "company": "Citadel",
+    "scrapeDate": "2026-02-03T21:41:43.418Z",
+    "uniqueIdentifier": "citadel-software-engineer-intern-us",
+    "location": "Chicago, Miami, New York",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/software-engineer-intern-us/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "software-engineer-intern-us"
     }
   }
 ]
