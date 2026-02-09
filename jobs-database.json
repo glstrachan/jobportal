@@ -16,20 +16,6 @@
   {
     "name": "Quantitative Trader",
     "company": "Jane Street",
-    "scrapeDate": "2026-01-16T09:33:34.263Z",
-    "uniqueIdentifier": "jane-street-7982986002",
-    "location": "Hong Kong",
-    "seasonDuration": "December-February",
-    "url": "https://www.janestreet.com/join-jane-street/position/7982986002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Trading, Research, and Machine Learning",
-      "positionId": "7982986002"
-    }
-  },
-  {
-    "name": "Quantitative Trader",
-    "company": "Jane Street",
     "scrapeDate": "2025-12-09T12:56:19.582Z",
     "uniqueIdentifier": "jane-street-8010144002",
     "location": "Hong Kong",
@@ -56,17 +42,17 @@
     }
   },
   {
-    "name": "Quantitative Researcher",
+    "name": "Quantitative Trader",
     "company": "Jane Street",
-    "scrapeDate": "2025-12-09T12:56:19.582Z",
-    "uniqueIdentifier": "jane-street-7979031002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/7979031002/",
+    "scrapeDate": "2026-01-16T09:33:34.263Z",
+    "uniqueIdentifier": "jane-street-7982986002",
+    "location": "Hong Kong",
+    "seasonDuration": "December-February",
+    "url": "https://www.janestreet.com/join-jane-street/position/7982986002/",
     "extra": {
       "type": "Internship",
       "department": "Trading, Research, and Machine Learning",
-      "positionId": "7979031002"
+      "positionId": "7982986002"
     }
   },
   {
@@ -95,6 +81,20 @@
       "type": "Internship",
       "department": "Trading, Research, and Machine Learning",
       "positionId": "8095356002"
+    }
+  },
+  {
+    "name": "Quantitative Researcher",
+    "company": "Jane Street",
+    "scrapeDate": "2025-12-09T12:56:19.582Z",
+    "uniqueIdentifier": "jane-street-7979031002",
+    "location": "New York",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/7979031002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7979031002"
     }
   },
   {
@@ -492,20 +492,6 @@
   {
     "name": "Quantitative Trader",
     "company": "Jane Street",
-    "scrapeDate": "2026-01-16T09:33:34.263Z",
-    "uniqueIdentifier": "jane-street-7982986002",
-    "location": "Hong Kong",
-    "seasonDuration": "December-February",
-    "url": "https://www.janestreet.com/join-jane-street/position/7982986002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Trading, Research, and Machine Learning",
-      "positionId": "7982986002"
-    }
-  },
-  {
-    "name": "Quantitative Trader",
-    "company": "Jane Street",
     "scrapeDate": "2025-12-09T12:56:19.582Z",
     "uniqueIdentifier": "jane-street-8010144002",
     "location": "Hong Kong",
@@ -532,17 +518,17 @@
     }
   },
   {
-    "name": "Quantitative Researcher",
+    "name": "Quantitative Trader",
     "company": "Jane Street",
-    "scrapeDate": "2025-12-09T12:56:19.582Z",
-    "uniqueIdentifier": "jane-street-7979031002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/7979031002/",
+    "scrapeDate": "2026-01-16T09:33:34.263Z",
+    "uniqueIdentifier": "jane-street-7982986002",
+    "location": "Hong Kong",
+    "seasonDuration": "December-February",
+    "url": "https://www.janestreet.com/join-jane-street/position/7982986002/",
     "extra": {
       "type": "Internship",
       "department": "Trading, Research, and Machine Learning",
-      "positionId": "7979031002"
+      "positionId": "7982986002"
     }
   },
   {
@@ -571,6 +557,20 @@
       "type": "Internship",
       "department": "Trading, Research, and Machine Learning",
       "positionId": "8095356002"
+    }
+  },
+  {
+    "name": "Quantitative Researcher",
+    "company": "Jane Street",
+    "scrapeDate": "2025-12-09T12:56:19.582Z",
+    "uniqueIdentifier": "jane-street-7979031002",
+    "location": "New York",
+    "seasonDuration": "May-August",
+    "url": "https://www.janestreet.com/join-jane-street/position/7979031002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Trading, Research, and Machine Learning",
+      "positionId": "7979031002"
     }
   },
   {
