@@ -894,19 +894,6 @@
     }
   },
   {
-    "name": "Quantitative Researcher – PhD Graduate (Europe)",
-    "company": "Citadel",
-    "scrapeDate": "2026-02-10T20:53:29.316Z",
-    "uniqueIdentifier": "citadel-quantitative-researcher-phd-graduate-europe",
-    "location": "Dublin, London, Paris, Zurich",
-    "seasonDuration": "Not specified",
-    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/",
-    "extra": {
-      "type": "Internship",
-      "positionId": "quantitative-researcher-phd-graduate-europe"
-    }
-  },
-  {
     "name": "Software Engineer – Intern (US)",
     "company": "Citadel",
     "scrapeDate": "2026-02-10T20:53:29.316Z",
@@ -995,6 +982,19 @@
     "extra": {
       "type": "Internship",
       "positionId": "quantitative-research-analyst-intern-bs-ms-europe"
+    }
+  },
+  {
+    "name": "Quantitative Researcher – PhD Graduate (Europe)",
+    "company": "Citadel",
+    "scrapeDate": "2026-02-10T20:53:29.316Z",
+    "uniqueIdentifier": "citadel-quantitative-researcher-phd-graduate-europe",
+    "location": "Dublin, London, Paris, Zurich",
+    "seasonDuration": "Not specified",
+    "url": "https://www.citadel.com/careers/details/quantitative-researcher-phd-graduate-europe/",
+    "extra": {
+      "type": "Internship",
+      "positionId": "quantitative-researcher-phd-graduate-europe"
     }
   }
 ]
