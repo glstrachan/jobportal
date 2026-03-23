@@ -252,20 +252,6 @@
     }
   },
   {
-    "name": "Network Engineer",
-    "company": "Jane Street",
-    "scrapeDate": "2025-12-09T12:56:19.582Z",
-    "uniqueIdentifier": "jane-street-8065576002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8065576002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8065576002"
-    }
-  },
-  {
     "name": "Sales and Trading",
     "company": "Jane Street",
     "scrapeDate": "2025-12-09T12:56:19.582Z",
@@ -627,20 +613,6 @@
       "type": "Internship",
       "department": "Technology",
       "positionId": "8377832002"
-    }
-  },
-  {
-    "name": "Network Engineer",
-    "company": "Jane Street",
-    "scrapeDate": "2025-12-09T12:56:19.582Z",
-    "uniqueIdentifier": "jane-street-8065576002",
-    "location": "New York",
-    "seasonDuration": "May-August",
-    "url": "https://www.janestreet.com/join-jane-street/position/8065576002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8065576002"
     }
   },
   {
