@@ -142,20 +142,6 @@
   {
     "name": "Linux Engineer",
     "company": "Jane Street",
-    "scrapeDate": "2026-01-19T06:49:09.327Z",
-    "uniqueIdentifier": "jane-street-8377832002",
-    "location": "Hong Kong",
-    "seasonDuration": "December-February",
-    "url": "https://www.janestreet.com/join-jane-street/position/8377832002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8377832002"
-    }
-  },
-  {
-    "name": "Linux Engineer",
-    "company": "Jane Street",
     "scrapeDate": "2025-12-09T12:56:19.582Z",
     "uniqueIdentifier": "jane-street-8062907002",
     "location": "New York",
@@ -165,6 +151,20 @@
       "type": "Internship",
       "department": "Technology",
       "positionId": "8062907002"
+    }
+  },
+  {
+    "name": "Linux Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2026-01-19T06:49:09.327Z",
+    "uniqueIdentifier": "jane-street-8377832002",
+    "location": "Hong Kong",
+    "seasonDuration": "December-February",
+    "url": "https://www.janestreet.com/join-jane-street/position/8377832002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "8377832002"
     }
   },
   {
@@ -394,20 +394,6 @@
   {
     "name": "Linux Engineer",
     "company": "Jane Street",
-    "scrapeDate": "2026-01-19T06:49:09.327Z",
-    "uniqueIdentifier": "jane-street-8377832002",
-    "location": "Hong Kong",
-    "seasonDuration": "December-February",
-    "url": "https://www.janestreet.com/join-jane-street/position/8377832002/",
-    "extra": {
-      "type": "Internship",
-      "department": "Technology",
-      "positionId": "8377832002"
-    }
-  },
-  {
-    "name": "Linux Engineer",
-    "company": "Jane Street",
     "scrapeDate": "2025-12-09T12:56:19.582Z",
     "uniqueIdentifier": "jane-street-8062907002",
     "location": "New York",
@@ -417,6 +403,20 @@
       "type": "Internship",
       "department": "Technology",
       "positionId": "8062907002"
+    }
+  },
+  {
+    "name": "Linux Engineer",
+    "company": "Jane Street",
+    "scrapeDate": "2026-01-19T06:49:09.327Z",
+    "uniqueIdentifier": "jane-street-8377832002",
+    "location": "Hong Kong",
+    "seasonDuration": "December-February",
+    "url": "https://www.janestreet.com/join-jane-street/position/8377832002/",
+    "extra": {
+      "type": "Internship",
+      "department": "Technology",
+      "positionId": "8377832002"
     }
   },
   {
